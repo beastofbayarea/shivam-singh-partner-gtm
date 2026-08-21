@@ -2,6 +2,11 @@
 
 Role-targeted resume for partner marketing, ecosystem strategy, enterprise AI adoption, and multi-market go-to-market programs.
 
+## Profile
+
+- Email: [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu)
+- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
+
 ## Resume formats
 
 - [View the PDF](./shivam-singh-partner-gtm.pdf)
@@ -15,11 +20,6 @@ Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly appl
 - Enterprise AI positioning and adoption
 - Partner activation, enablement, and joint launches
 - Market development and internationalization
-
-## Workplace assessments
-
-- [Workplace Insights report - December 2025](./assessments/workplace-insights-report-2025-12-26.pdf)
-- [Workplace Insights report - January 2026](./assessments/workplace-insights-report-2026-01-18.pdf)
 
 ## Project interview stories
 
@@ -55,7 +55,7 @@ Stories are grouped by their primary resume experience in reverse chronological 
 
 - [Southeast Asia digital bank: distribution-partner launch](./projects/southeast-asia-digital-bank-partner-launch.md) - partner requirements, regulated onboarding, launch governance, and measurable distribution economics
 
-## Profile
+## Workplace assessments
 
-- Email: [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu)
-- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
+- [Workplace Insights report - December 2025](./assessments/workplace-insights-report-2025-12-26.pdf)
+- [Workplace Insights report - January 2026](./assessments/workplace-insights-report-2026-01-18.pdf)
