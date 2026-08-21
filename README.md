@@ -37,6 +37,12 @@ Stories are grouped by their primary resume experience in reverse chronological 
 
 - [Partner marketing: MDF and pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md) - partner segmentation, enablement, and co-marketing efficiency
 
+### McKinsey & Company
+
+**Associate, Market Entry** | July 2014 - June 2016
+
+- [Southeast Asia digital bank: distribution-partner launch](./projects/southeast-asia-digital-bank-partner-launch.md) - partner requirements, regulated onboarding, launch governance, and measurable distribution economics
+
 ## Profile
 
 - Email: [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu)
