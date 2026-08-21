@@ -1,61 +1,60 @@
 # Shivam Singh - Partner Marketing and Ecosystem GTM
 
-Role-targeted resume for partner marketing, ecosystem strategy, enterprise AI adoption, and multi-market go-to-market programs.
+I build partner strategies that turn complementary capabilities into a clearer customer proposition and a repeatable route to market. This portfolio shows how I approach ecosystem design, partner segmentation, enablement, co-marketing, regulated-market launches, and joint value creation.
 
 ## Profile
 
-- Email: [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu)
-- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
+- I welcome conversations at [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu).
+- I share my broader professional background on [LinkedIn](https://www.linkedin.com/in/beastofbayarea).
 
-## Resume formats
+## What I focus on
 
-- [View the PDF](./shivam-singh-partner-gtm.pdf)
-- [Download the ATS Autofill DOCX](./shivam-singh-partner-gtm-ats-autofill.docx)
+- I identify the partners, capabilities, and incentives needed to solve a complete customer problem.
+- I build joint positioning and enablement around distinct roles and measurable partner value.
+- I design activation, co-marketing, and pipeline mechanisms that partners can operate consistently.
+- I adapt ecosystem programs for enterprise adoption, regulated industries, and international markets.
 
-Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly application workflows.
+## Resume
 
-## Focus areas
+- I use the [PDF resume](./shivam-singh-partner-gtm.pdf) as the primary version for reading and sharing.
+- I provide an [editable, ATS-friendly DOCX](./shivam-singh-partner-gtm-ats-autofill.docx) for application workflows.
 
-- Partner marketing and ecosystem strategy
-- Enterprise AI positioning and adoption
-- Partner activation, enablement, and joint launches
-- Market development and internationalization
+## Project portfolio
 
-## Project interview stories
-
-I group these case studies by their primary resume experience in reverse chronological order. I write each project in first person, explain how I would frame and lead the work, and ground the analysis in the independent methodology and market sources linked within the file.
+I organize these projects by career experience, with the most recent first. In each case study, I explain how I would define the ecosystem, align incentives, enable the channel, govern joint execution, and measure customer and partner value. I ground the analysis in the independent methodology and market sources linked inside each file.
 
 ### Amazon Web Services (AWS)
 
 **Principal, Partner Marketing and Ecosystem GTM** | July 2024 - Present
 
-- [APAC sovereign cloud: partner GTM](./projects/apac-sovereign-cloud-partner-gtm.md) - ecosystem design, regulated-market positioning, and joint launch
+- I use [APAC sovereign cloud: partner GTM](./projects/apac-sovereign-cloud-partner-gtm.md) to show how I would assemble a regulated-market ecosystem, clarify partner roles, build joint proof, and sequence launch across diverse APAC markets.
 
 ### Rakuten Group, Inc.
 
 **Partner GTM - MBA Intern** | 2023
 
-- [Merchant assurance ecosystem: multi-channel partner enablement](./projects/merchant-assurance-ecosystem-partner-enablement.md) - merchant operating model, channel integration, workflow enablement, and partner economics
+- I use [Merchant assurance ecosystem: multi-channel partner enablement](./projects/merchant-assurance-ecosystem-partner-enablement.md) to show how I would connect merchant workflows, channel partners, service standards, and partner economics into a dependable assurance proposition.
 
 ### Microsoft Corporation
 
 **Senior Manager, Enterprise Partner GTM** | January 2020 - August 2022
 
-- [Partner marketing: MDF and pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md) - partner segmentation, enablement, and co-marketing efficiency
+- I use [Partner marketing: MDF and pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md) to show how I would segment partners, align market-development funding with readiness, improve co-marketing execution, and measure pipeline quality.
 
 ### The D. E. Shaw Group
 
 **Vice President, Commercial Activation** | July 2016 - December 2019
 
-- [Sovereign mandate: partner activation and expansion](./projects/sovereign-mandate-partner-activation-expansion.md) - institutional solution positioning, stakeholder education, joint governance, and relationship expansion
+- I use [Sovereign mandate: partner activation and expansion](./projects/sovereign-mandate-partner-activation-expansion.md) to show how I would position an institutional solution, educate stakeholders, establish joint governance, and expand the relationship through demonstrated value.
 
 ### McKinsey & Company
 
 **Associate, Market Entry** | July 2014 - June 2016
 
-- [Southeast Asia digital bank: distribution-partner launch](./projects/southeast-asia-digital-bank-partner-launch.md) - partner requirements, regulated onboarding, launch governance, and measurable distribution economics
+- I use [Southeast Asia digital bank: distribution-partner launch](./projects/southeast-asia-digital-bank-partner-launch.md) to show how I would select distribution partners, design compliant onboarding, govern launch dependencies, and prove channel economics.
 
 ## Workplace assessments
 
-- [Workplace Insights report - December 2025](./assessments/workplace-insights-report-2025-12-26.pdf)
-- [Workplace Insights report - January 2026](./assessments/workplace-insights-report-2026-01-18.pdf)
+- I include my [December 2025 Workplace Insights report](./assessments/workplace-insights-report-2025-12-26.pdf) as an additional view of how I work.
+- I include my [January 2026 Workplace Insights report](./assessments/workplace-insights-report-2026-01-18.pdf) as the most recent assessment.
+
