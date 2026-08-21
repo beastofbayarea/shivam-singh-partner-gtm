@@ -2,7 +2,7 @@
 
 A shipping label is an artifact. Merchant value exists only when the listed item is available, the warehouse picks the right unit, the carrier accepts a viable service, delivery meets the promise, and marketplace evidence survives when something fails.
 
-During my Rakuten role, I led an ecosystem strategy across merchants, warehouses, carriers, commerce channels, product/data teams, and partner managers. Veeqo—an Amazon-owned platform—served as a market analogue, not an employer or product whose public results I claim.
+During my Rakuten role, I defined the ecosystem strategy with merchants, warehouses, carriers, commerce channels, Product/Data, and partner managers. Veeqo—an Amazon-owned platform—served as a market analogue, not an employer or product whose public results I claim.
 
 ## The product boundary was the completed promise
 
@@ -66,6 +66,6 @@ The [GS1 Global Data Model](https://www.gs1.org/standards/gs1-global-data-model)
 
 No partner donated data for vague ecosystem benefit. Every signal had a permitted decision and visible merchant outcome.
 
-I owned the ecosystem boundary, handoff contracts, partner-value exchange, decision points, canonical-record strategy, AI exception controls, and economic measurement. Participants retained truth and operating authority in their domains.
+The ecosystem boundary, handoff contracts, reciprocal value exchange, decision points, canonical record, AI exception controls, and economic measurement comprised my strategy remit. Each participant retained truth and operating authority in its domain.
 
 The project’s strategic move was to redefine the category as merchant assurance. A durable partner platform makes product data portable, picking accurate, routing economical, delivery recoverable, and disputes defensible—then lets every completed promise improve the next one.

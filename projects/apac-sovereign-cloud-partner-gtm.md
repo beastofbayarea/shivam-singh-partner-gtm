@@ -2,7 +2,7 @@
 
 Participating banks had committed more than $20 million of cloud capacity. Development and test moved; regulated production remained at zero.
 
-During my AWS role, I led the partner GTM system across bank technology/risk, an Indonesian identity provider, implementation partners, cloud product/security, marketplace, and field sellers. I treated the gap as a blocked asset: the missing product was a defensible approval path, not more awareness.
+During my AWS role, I assembled the partner GTM system across bank Technology/Risk, an Indonesian identity provider, implementation partners, Cloud Product/Security, Marketplace, and field sellers. I treated the gap as a blocked asset: the missing product was a defensible approval path, not more awareness.
 
 ## “Sovereignty” became five decisions
 
@@ -56,7 +56,7 @@ Marketplace transactions counted toward quota, removing the penalty for using th
 
 A comparable geography retained the broad approach. Indonesia produced 78% more CIO meetings and a 3.5× lead-quality result. Pre-period balance and scoring formula are absent, so this is a useful quasi-experiment, not randomized causality.
 
-## Decision record
+## Approval-to-pipeline evidence
 
 | Decision | Baseline → target → recorded result | Measurement |
 |---|---|---|
@@ -67,6 +67,6 @@ A comparable geography retained the broad approach. Indonesia produced 78% more 
 | Commercial path | regulated use zero → qualified progression → $122M pipeline | CRM pipeline, not revenue |
 | Stranded commitment | >$20M committed/blocked → approval-ready → >$20M eligible | Capacity mapped to cleared workload, not consumption |
 
-I owned partner selection, joint proposition, responsibility model, key-path redesign alignment, landing-zone productization, incentive change, named-account experiment, and executive story. Security/product approved controls; partners configured; banks/regulators approved release.
+Partner selection, the joint proposition, responsibility split, key-path redesign, landing-zone productization, incentive change, named-account experiment, and executive story were the choices I drove. Security/Product approved controls; partners configured them; banks/regulators approved release.
 
 The strategic GTM achievement was to make local trust purchasable. A partner mattered not because it extended reach, but because together we could convert identity, keys, evidence, recovery, seller incentive, and customer approval into one repeatable route for regulated workloads.

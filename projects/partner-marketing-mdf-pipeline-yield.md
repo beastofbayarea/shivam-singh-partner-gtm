@@ -2,7 +2,7 @@
 
 More than 30 Microsoft partners received $12 million of MDF and generated roughly 12,000 leads per month. Conversion was about 5%. The program was rewarding contacts while sellers needed fewer, better-timed conversations.
 
-I led the redesign across partners, account executives, marketing, sales operations, Finance, CRM/data, and executives. MDF dollars and seller hours became two scarce inventories governed by the same commercial evidence.
+I redesigned the program with partners, account executives, Marketing, Sales Operations, Finance, CRM/Data, and executives. MDF dollars and seller hours became two scarce inventories governed by the same commercial evidence.
 
 ## Inventory one: seller attention
 
@@ -70,6 +70,6 @@ The observed 85-day sales cycle lacks a comparable baseline and stage definition
 
 Spillover, territory differences, pipeline valuation, and short post-period remain. A stronger next design would preregister assignment, check pre-trends, report intervals, and follow revenue/margin.
 
-I owned investment rules, scoring policy, measurement, CRM service levels, partner negotiations, seller adoption, and executive reporting. Specialists built models/CRM; partners executed; account teams owned opportunities; Finance approved spend/value definitions.
+Investment rules, scoring policy, measurement, CRM service levels, partner negotiations, seller adoption, and executive reporting were my program levers. Specialists built models/CRM; partners executed; account teams controlled opportunities; Finance approved spend/value definitions.
 
 The organizational result was alignment around yield. Partners earned the next dollar through progression, sellers gave attention to evidence-backed demand, Finance saw control and impact separately, and infrastructure prioritized events based on the decision they changed.

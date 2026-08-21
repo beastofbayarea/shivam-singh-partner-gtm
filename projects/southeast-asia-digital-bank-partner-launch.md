@@ -4,7 +4,7 @@ A channel found the customer. An identity vendor established who they were. A te
 
 Without a shared operating contract, every partner could succeed locally while the customer failed end to end.
 
-During my July 2014–June 2016 McKinsey role, I led the partner model across bank leaders, regulators, product, risk, compliance/data, identity/telco, payment networks, and distribution partners.
+During my July 2014–June 2016 McKinsey role, I made the partner chain operate as one model across bank leaders, regulators, Product, Risk, Compliance/Data, Identity/Telco, payment networks, and distribution.
 
 ## The same contract followed every handoff
 
@@ -57,6 +57,6 @@ The source calls this a regulatory sandbox. Singapore’s MAS consultation appea
 
 Approval and NPL travel together. >4× approval with 2.4% early NPL supported the launch boundary; it was not lifetime loss evidence. Likewise, 100,000 users proves scale only when “active” remains consistent.
 
-I owned the customer-spanning contracts, feature-to-partner translation, four scorecards, incentive alignment, bounded expansion, and shared executive record. The bank retained product/risk authority; regulators retained approval; specialist partners retained controls.
+Customer-spanning contracts, feature-to-partner translation, the four scorecards, incentive alignment, bounded expansion, and the shared executive record were my deliverables. The bank retained Product/Risk authority; regulators approval; specialist partners their controls.
 
 The conflict was structural: distribution wanted reach, modeling wanted more data, Compliance wanted restraint, Risk wanted seasoning. I did not average them. I made every partner’s reward depend on the same governed customer state and made expansion conditional on the joint record.

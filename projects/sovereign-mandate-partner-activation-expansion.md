@@ -60,6 +60,6 @@ The relationship also created invitations to pitch ~$2 billion of regional manda
 
 This prevented Sales from showing return without controls, Quant from showing models without sovereign objectives, and Relationship teams from promising capability without an operating plan.
 
-I owned objective discovery, internal alignment, 80/20 architecture, tranche logic, governance narrative, capability-transfer product, and expansion case. Investment owned positions/performance; Compliance owned judgment; committees retained allocation; the sovereign retained mandate authority.
+Objective discovery, internal alignment, the 80/20 architecture, tranche logic, governance narrative, capability-transfer product, and expansion case were my partnership accountabilities. Investment controlled positions/performance; Compliance judgment; committees allocation; the sovereign mandate authority.
 
 The strategic GTM move was to change the unit of solution design from internal product to sovereign objective. Once every objective had a portfolio job and evidence gate, expansion became an earned operating decision rather than a bigger pitch.
