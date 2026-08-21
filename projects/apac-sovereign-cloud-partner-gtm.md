@@ -22,7 +22,7 @@ The obvious local candidate had a large consumer identity footprint, but its clo
 
 I made the choice against a written scorecard: local operating presence, assurance level, liveness and recovery behavior, API performance, audit evidence, embedded-user experience, failure ownership, commercial fit, and willingness to support a multi-party offer. Selection and onboarding took three weeks. The speed came from making trade-offs explicit, not from waiving diligence.
 
-I owned the complete partner offer, not a referral relationship: select the trust layer, redesign a failed key path, assign control obligations across provider and bank, productize the evidence as a repeatable landing zone, change seller incentives, and prove access with named accounts. That system made more than $20 million of stranded commitment approval-ready and created a $122 million qualified pipeline, neither of which I misstate as consumed cloud revenue.
+My remit was the complete partner offer, not a referral relationship: select the trust layer, redesign a failed key path, assign control obligations across provider and bank, productize the evidence as a repeatable landing zone, change seller incentives, and prove access with named accounts. That system made more than $20 million of stranded commitment approval-ready and created a $122 million qualified pipeline, neither of which I misstate as consumed cloud revenue.
 
 The resulting responsibility chain was deliberately asymmetric:
 

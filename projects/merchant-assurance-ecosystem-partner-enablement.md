@@ -10,7 +10,7 @@ A label is an artifact. A merchant earns trust only when the listed item exists,
 
 I modeled that promise as an ordered contract:
 
-I owned the ecosystem product boundary across merchant truth, channel schemas, warehouse proof, carrier economics, delivery intervention, dispute evidence, and partner reciprocity. The strategic scale came from making every handoff improve the next participant's decision while preserving provenance—an operating moat broader than label software, but deliberately separate from public Veeqo customer results I did not cause.
+I drew the ecosystem product boundary across merchant truth, channel schemas, warehouse proof, carrier economics, delivery intervention, dispute evidence, and partner reciprocity. The strategic scale came from making every handoff improve the next participant's decision while preserving provenance—an operating moat broader than label software, but deliberately separate from public Veeqo customer results I did not cause.
 
 `product record → channel listing → inventory reservation → pick evidence → rate/service choice → carrier scan → delivery event → marketplace protection`
 

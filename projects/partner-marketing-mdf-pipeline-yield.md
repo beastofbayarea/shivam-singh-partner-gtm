@@ -4,7 +4,7 @@ I led a partner marketing program at Microsoft after identifying that partners w
 
 The program covered more than 30 partners and $12 million of market-development funds from January 2020 to August 2022. It was producing roughly 12,000 leads a month; only about 5% converted. I treated MDF dollars and seller hours as two scarce inventories that had to be allocated against the same commercial evidence.
 
-I owned both allocation systems at network scale: which demand deserved seller time and which partners earned the next tranche of funding. I combined a propensity-routed service model, CRM traffic controls, 500-account holdout, standardized opportunity definitions, and Finance-visible MDF gates—raising prioritized conversion to 24% and producing an estimated $50 million of incremental GMV, while preserving 4.1× as gross GMV per dollar spent rather than net ROI.
+I controlled both allocation systems at network scale: which demand deserved seller time and which partners earned the next tranche of funding. I combined a propensity-routed service model, CRM traffic controls, 500-account holdout, standardized opportunity definitions, and Finance-visible MDF gates—raising prioritized conversion to 24% and producing an estimated $50 million of incremental GMV, while preserving 4.1× as gross GMV per dollar spent rather than net ROI.
 
 ## Inventory one: seller attention
 

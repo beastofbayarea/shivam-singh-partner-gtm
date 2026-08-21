@@ -8,7 +8,7 @@ The work occurred during my D. E. Shaw role from July 2016 to December 2019. I d
 
 The internal proposals were individually coherent and collectively unusable.
 
-I owned the redesign from product pitch to sovereign partnership: objective discovery, 80/20 solution architecture, tranche economics, joint governance, six-month capability transfer, and the evidence record for expansion. That system helped turn a $500 million starting allocation into a reported $1.2 billion mandate within 12 months, $15 million of first-year fees, and invitations to pitch another roughly $2 billion—while keeping invitations, AUM, and fees as three different commercial facts.
+I redesigned the product pitch into a sovereign partnership: objective discovery, 80/20 solution architecture, tranche economics, joint governance, six-month capability transfer, and the evidence record for expansion. That system helped turn a $500 million starting allocation into a reported $1.2 billion mandate within 12 months, $15 million of first-year fees, and invitations to pitch another roughly $2 billion—while keeping invitations, AUM, and fees as three different commercial facts.
 
 - Quant favored an emerging-markets strategy targeting 12%–15% return with drawdowns above 25%.
 - Sales favored a Treasury-heavy portfolio targeting 6%–8%.

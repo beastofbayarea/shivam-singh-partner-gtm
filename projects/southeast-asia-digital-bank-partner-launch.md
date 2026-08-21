@@ -4,7 +4,7 @@ I led the partner operating model for a Southeast Asian digital bank launch. I h
 
 I completed the work during my McKinsey role from July 2014 to June 2016. The product was a new bank, but the hard design problem was a chain of delegated decisions: a channel found the customer, an identity vendor established who they were, a data provider supplied consented behavioral signals, a model assessed risk, a payment system made the account useful, and servicing and collections teams owned what happened afterward.
 
-I owned that chain as one partner operating system: write the handoff contracts, translate more than 400 model features into permitted partner evidence, align four partner scorecards, bind incentives to active and safely served customers, and hold expansion behind a common risk-and-growth record. The launch reached 100,000 active customers in 90 days with approval above 40%, CAC below $10, and reported NPLs of 2.4%—results that only remain meaningful when read together.
+I made that chain one partner operating system: write the handoff contracts, translate more than 400 model features into permitted partner evidence, align four partner scorecards, bind incentives to active and safely served customers, and hold expansion behind a common risk-and-growth record. The launch reached 100,000 active customers in 90 days with approval above 40%, CAC below $10, and reported NPLs of 2.4%—results that only remain meaningful when read together.
 
 ## The launch contract followed the customer, not the org chart
 
