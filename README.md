@@ -23,12 +23,19 @@ Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly appl
 
 ## Project interview stories
 
-Each story adapts a portfolio project to this role narrative, with resume-ready impact, interview framing, decisions, metrics, and a link to the source page. The primary resume experience identifies the work-history anchor whose stated scope and evidence best support the story.
+Stories are grouped by their primary resume experience in reverse chronological order. Each project includes resume-ready impact, interview framing, decisions, metrics, and a link to the source page.
+
+### Amazon Web Services (AWS)
+
+**Principal, Partner Marketing and Ecosystem GTM** | July 2024 - Present
 
 - [APAC sovereign cloud: partner GTM](./projects/apac-sovereign-cloud-partner-gtm.md) - ecosystem design, regulated-market positioning, and joint launch
-  - **Primary resume experience:** Amazon Web Services (AWS) - Principal, Partner Marketing and Ecosystem GTM (July 2024 - Present)
+
+### Microsoft Corporation
+
+**Senior Manager, Enterprise Partner GTM** | January 2020 - August 2022
+
 - [Partner marketing: MDF and pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md) - partner segmentation, enablement, and co-marketing efficiency
-  - **Primary resume experience:** Microsoft Corporation - Senior Manager, Enterprise Partner GTM (January 2020 - August 2022)
 
 ## Profile
 
