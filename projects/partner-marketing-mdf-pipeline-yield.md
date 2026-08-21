@@ -1,56 +1,85 @@
-# Turning Partner MDF into Measurable Pipeline Yield
+# Allocating Partner Funds and Seller Time to Pipeline Yield
 
-I led this $12 million program across more than 30 partners during my [Microsoft experience from January 2020 to August 2022](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf).
+I led a partner marketing program at Microsoft after identifying that partners were being rewarded for delivering contacts while sellers needed fewer, better-timed conversations that became revenue. I worked with partner organizations, account executives, marketing, sales operations, finance, data and CRM teams, and executive sponsors.
 
-The program generated 12,000 leads a month, but only about 5% converted. Sellers spent time on low-intent contacts, CRM systems strained under event volume, and partners treated market-development funds as reimbursement for activity rather than investment in a commercial outcome.
+The program covered more than 30 partners and $12 million of market-development funds from January 2020 to August 2022. It was producing roughly 12,000 leads a month; only about 5% converted. I treated MDF dollars and seller hours as two scarce inventories that had to be allocated against the same commercial evidence.
 
-I changed the governing measure from leads delivered to attributable pipeline per dollar of MDF.
+## Inventory one: seller attention
 
-## I allocated sales attention, not human worth
+The first problem was not that the funnel lacked names. It was that every name entered the same follow-up queue.
 
-I backtested a propensity threshold that prioritized leads with stronger observed buying signals. Strategic-account overrides remained available, and every lead continued to receive nurture and re-scoring when new intent appeared.
+I backtested a propensity score on observed purchase and engagement signals, then set a prioritization threshold above 70. The score did **not** determine whether a person deserved service. It determined the next workflow:
 
-I also kept 10% of low-scoring demand in a control cohort. That measured false-negative risk and protected against a model that simply learned the organization's existing preferences.
+- high-priority demand went to a seller promptly;
+- strategic accounts could be promoted by an explicit override;
+- other demand entered nurture and could be re-scored when behavior changed;
+- 10% of low-scoring demand stayed in a measurement cohort so we could observe false negatives.
 
-Prioritized-lead conversion increased from 6.5% to 24%. Lower lead volume became a useful outcome because seller hours moved toward higher expected yield without permanently discarding the rest of the market.
+The low-score cohort converted below 0.5%, while prioritized demand converted at 24%. The previous prioritized-flow baseline was 6.5%, so the observed change was **6.5% → 24%**, or +17.5 percentage points and 3.7× the original rate.
 
-## Traffic shaping protected the revenue system
+A two-week pilot delivered about 60% fewer seller-routed leads and 30% higher average opportunity value. That was the proof I used with Sales: the model was valuable because it improved the yield of human time, not because it made a large database look smaller.
 
-Not every marketing event needed immediate CRM processing. I classified signals by decision value, delayed low-value activity, and preserved fast handling for events that changed seller or partner action. API load fell 81%.
+## The plumbing nearly defeated the policy
 
-This was not only a technical optimization. The reduced noise made the account record more usable and kept high-intent events from waiting behind low-value traffic.
+Marketing events were also consuming CRM capacity without regard to decision value. A page view and a demo request could arrive as equally urgent writes, leaving high-intent actions behind routine activity.
 
-## Attribution and funding used the same definitions
+I divided the flow into two service levels:
 
-I standardized campaign taxonomy and combined W-shaped attribution with closed-won feedback. The model made early education, opportunity creation, and late-stage influence visible while still returning final commercial evidence.
+`decision-changing event → immediate write and routing`
 
-The World Bank's impact-evaluation methodology influenced the 500-account holdout. Targeted-account pipeline grew 38% compared with 4% in the holdout, supporting an estimate of approximately $50 million in incremental gross merchandise value at 4.1 times return on investment.
+`context event → 15-minute micro-batch and account aggregation`
 
-FTC guidance supplied the advertising and substantiation baseline across partner-funded creative. Common measurement could not legitimize unsupported claims.
+We deduplicated contacts, attached events to the account, and used bulk/composite patterns for lower-value traffic. Salesforce's Composite API documents the relevant mechanism: multiple subrequests can count as one API call. The redesign reduced API load by 81% while preserving fast handling for events that changed a seller decision.
 
-## MDF became a tranche, not an entitlement
+This was more than infrastructure hygiene. A quieter account record made the scoring logic explainable to sellers and stopped routine telemetry from delaying revenue work.
 
-I released partner funds against agreed evidence: campaign readiness, qualified engagement, attributable opportunity, and pipeline progress. Proof of execution remained necessary, but it no longer counted as proof of performance.
+## Inventory two: MDF
 
-I also classified the shared data platform as partner enablement, which allowed half of its cost to be funded centrally and aligned the infrastructure with the ecosystem outcome.
+Microsoft's current co-op guidance reflects the underlying program tension: funds reimburse eligible activity, and partners must retain proof of execution. Proof is necessary for financial control, but an invoice, attendee list, or campaign asset does not demonstrate pipeline.
 
-## The operating result
+I kept the compliance record and added commercial gates. Funds moved in tranches against four different facts:
 
-- Prioritized-lead conversion increased from 6.5% to 24%.
-- CRM API load declined 81%.
-- Sales cycles reached 85 days.
-- Targeted-account pipeline grew 38% versus 4% in the holdout.
-- The program isolated roughly $50 million in incremental GMV at 4.1 times ROI.
+1. **readiness** — audience, offer, consent, creative, and measurement were approved;
+2. **execution** — the agreed activity occurred and supporting documents existed;
+3. **qualified progression** — target accounts engaged and opportunities met common criteria;
+4. **economic evidence** — pipeline or closed-won value justified the next unit of funding.
 
-## What I carry into partner investment
+Partners knew the recovery path in advance. A campaign that missed its first progression threshold was diagnosed and revised; it did not disappear into a punitive black box.
 
-I fund the next unit of partner activity only when the previous unit produces decision-grade evidence. That keeps MDF collaborative rather than punitive: the partner sees the metric, the recovery path, and the next gate before spending begins.
+I also classified the shared data layer as partner enablement, allowing 50% of its cost to be funded centrally. That decision mattered because no individual partner should have borne the whole cost of infrastructure that improved measurement for the network.
 
-## External foundations
+## One commercial language across thirty partners
 
-These sources supplied the primary causal-measurement and advertising methodology. My resume is linked only for employment chronology.
+I standardized campaign, account, opportunity, source, stage, and time-window definitions. A W-shaped attribution view recognized first touch, opportunity creation, and later influence, while closed-won records returned the final commercial state.
 
-| Source | How I applied it |
-|---|---|
-| [World Bank — Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) | I used its counterfactual principles for the account holdout and incremental-value estimate. |
-| [U.S. Federal Trade Commission — Advertising and Marketing Basics](https://www.ftc.gov/business-guidance/advertising-marketing) | I used its truthful-advertising and substantiation standard across partner-funded programs. |
+Attribution still could not prove incrementality, so I created a 500-account, 90-day holdout. Targeted-account pipeline grew 38%; holdout pipeline grew 4%. The **34-percentage-point difference-in-differences estimate** supported roughly $50 million of incremental GMV.
+
+The retained “4.1× ROI” label was mathematically imprecise. With $50 million of incremental GMV against roughly $12 million of program spend, the reconstructable measure is **4.1× gross GMV per program dollar**. It is not a standard net ROI because the record does not subtract product, partner, sales, or servicing costs. I corrected the claim rather than preserve a more flattering but undefined label.
+
+The 85-day sales-cycle result is also incomplete without a comparable starting value and stage definition. I retain it as the observed cycle length, not as proof of acceleration.
+
+## Scorecard I used with Finance and Sales
+
+| Decision | Baseline | Target | Result | Measurement |
+|---|---:|---:|---:|---|
+| Which demand reached sellers? | ~5% overall conversion; 6.5% in prior prioritized flow | increase seller-yield without discarding lower scores | 24% prioritized conversion; <0.5% in low-score cohort | opportunity conversion by routing cohort |
+| Did prioritization reduce waste? | all eligible contacts competed for follow-up | fewer, higher-value handoffs | ~60% fewer routed leads; 30% higher average opportunity value | two-week pilot versus preceding flow |
+| Could CRM absorb the signal volume? | unshaped event traffic | preserve high-intent response | 81% fewer API calls | application/API monitoring before and after batching |
+| Did targeting create incremental pipeline? | pre-period movement in both groups | treated accounts outperform holdout | +38% versus +4%, a 34-point gap | 500-account, 90-day holdout |
+| Did spend produce economic output? | activity reimbursement | measurable commercial yield | ~$50M incremental GMV; 4.1× gross GMV/spend | holdout estimate divided by ~$12M spend |
+
+The holdout improved credibility but did not eliminate every threat. Spillover between accounts, territory differences, pipeline valuation, and the limited post-period could bias the estimate. I would now pre-register assignment, check pre-trends, report confidence intervals, and follow the cohort through realized revenue and margin.
+
+## What changed organizationally
+
+Partners stopped optimizing solely for lead count because the next tranche depended on progression. Sellers stopped treating partner marketing as an undifferentiated queue because the routing rule protected their time. Finance could reconcile eligible spend and commercial evidence without pretending they were the same artifact. Data and CRM teams had a service-level policy tied to business decisions.
+
+My ownership crossed the whole system: investment rules, scoring policy, measurement design, CRM traffic shaping, partner negotiations, sales adoption, and executive reporting. Model engineering, CRM implementation, partner execution, and opportunity ownership remained with the corresponding specialist teams.
+
+### Sources that constrain the reconstruction
+
+- [Microsoft Learn — Incentives co-op and claims](https://learn.microsoft.com/en-us/partner-center/incentives/claims-overview) confirms that co-op funds reimburse eligible activities, operate in defined periods, and require retained execution evidence.
+- [Microsoft Learn — Core requirements](https://learn.microsoft.com/en-us/partner-center/incentives/core-requirements) shows the distinction among communications, metrics, eligible expenses, and proof.
+- [Salesforce Developers — Composite API](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/resources_composite_composite_post.htm) supports the request-consolidation pattern used in the traffic design.
+- [World Bank — Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) supplied the counterfactual discipline for the account holdout.
+
