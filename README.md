@@ -1,60 +1,66 @@
 # Shivam Singh - Partner Marketing and Ecosystem GTM
 
-I build partner strategies that turn complementary capabilities into a clearer customer proposition and a repeatable route to market. This portfolio shows how I approach ecosystem design, partner segmentation, enablement, co-marketing, regulated-market launches, and joint value creation.
-
 ## Profile
 
-- I welcome conversations at [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu).
-- I share my broader professional background on [LinkedIn](https://www.linkedin.com/in/beastofbayarea).
+Hi, I’m Shivam. I build partnerships around a customer problem that neither organization solves as well alone. From there, I work through the less glamorous—but decisive—questions: who does what, why each partner should care, what the joint promise is, how the field will deliver it, and how both sides will know the relationship is working.
 
-## What I focus on
+You can reach me at [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu). My broader professional background is on [LinkedIn](https://www.linkedin.com/in/beastofbayarea).
 
-- I identify the partners, capabilities, and incentives needed to solve a complete customer problem.
-- I build joint positioning and enablement around distinct roles and measurable partner value.
-- I design activation, co-marketing, and pipeline mechanisms that partners can operate consistently.
-- I adapt ecosystem programs for enterprise adoption, regulated industries, and international markets.
+## My view of an ecosystem
+
+A long partner list is not an ecosystem strategy. I look for complementary capabilities, clear roles, aligned incentives, and a repeatable path from enablement to customer value.
+
+That becomes especially important in AI, enterprise technology, and regulated markets. Trust may depend on local delivery, industry expertise, compliance, integration, and support—so the go-to-market plan has to make the entire system credible.
 
 ## Resume
 
-- I use the [PDF resume](./shivam-singh-partner-gtm.pdf) as the primary version for reading and sharing.
-- I provide an [editable, ATS-friendly DOCX](./shivam-singh-partner-gtm-ats-autofill.docx) for application workflows.
+My [PDF resume](./shivam-singh-partner-gtm.pdf) is ready to read or share. I also provide an [editable, ATS-friendly DOCX](./shivam-singh-partner-gtm-ats-autofill.docx).
 
-## Project portfolio
+## Five ecosystem conversations
 
-I organize these projects by career experience, with the most recent first. In each case study, I explain how I would define the ecosystem, align incentives, enable the channel, govern joint execution, and measure customer and partner value. I ground the analysis in the independent methodology and market sources linked inside each file.
+I’ve organized these cases by career experience, newest first. In each one, I talk through the customer need, the partner roles, the incentives, the launch mechanics, and the measures that would tell me whether the ecosystem is creating real value. The external links inside each file support the market and methodology choices.
 
 ### Amazon Web Services (AWS)
 
 **Principal, Partner Marketing and Ecosystem GTM** | July 2024 - Present
 
-- I use [APAC sovereign cloud: partner GTM](./projects/apac-sovereign-cloud-partner-gtm.md) to show how I would assemble a regulated-market ecosystem, clarify partner roles, build joint proof, and sequence launch across diverse APAC markets.
+#### [APAC sovereign cloud: partner GTM](./projects/apac-sovereign-cloud-partner-gtm.md)
+
+Sovereign cloud is delivered through more than infrastructure. I assemble the local technology, advisory, compliance, and delivery capabilities needed for a credible proposition, then sequence proof and launch across different APAC markets.
 
 ### Rakuten Group, Inc.
 
 **Partner GTM - MBA Intern** | 2023
 
-- I use [Merchant assurance ecosystem: multi-channel partner enablement](./projects/merchant-assurance-ecosystem-partner-enablement.md) to show how I would connect merchant workflows, channel partners, service standards, and partner economics into a dependable assurance proposition.
+#### [Merchant assurance ecosystem: multi-channel partner enablement](./projects/merchant-assurance-ecosystem-partner-enablement.md)
+
+A merchant should not have to coordinate the ecosystem themselves. I connect merchant workflows, channel roles, service standards, economics, and escalation into one assurance experience that partners can deliver consistently.
 
 ### Microsoft Corporation
 
 **Senior Manager, Enterprise Partner GTM** | January 2020 - August 2022
 
-- I use [Partner marketing: MDF and pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md) to show how I would segment partners, align market-development funding with readiness, improve co-marketing execution, and measure pipeline quality.
+#### [Partner marketing: MDF and pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md)
+
+Market-development funding should follow the ability to create and convert demand. I segment partners by readiness, define the enablement each group needs, and connect co-marketing investment to pipeline quality rather than activity volume.
 
 ### The D. E. Shaw Group
 
 **Vice President, Commercial Activation** | July 2016 - December 2019
 
-- I use [Sovereign mandate: partner activation and expansion](./projects/sovereign-mandate-partner-activation-expansion.md) to show how I would position an institutional solution, educate stakeholders, establish joint governance, and expand the relationship through demonstrated value.
+#### [Sovereign mandate: partner activation and expansion](./projects/sovereign-mandate-partner-activation-expansion.md)
+
+This case is about earning the right to expand an institutional relationship. I bring together solution positioning, stakeholder education, joint governance, performance evidence, and a deliberate path from initial mandate to broader partnership.
 
 ### McKinsey & Company
 
 **Associate, Market Entry** | July 2014 - June 2016
 
-- I use [Southeast Asia digital bank: distribution-partner launch](./projects/southeast-asia-digital-bank-partner-launch.md) to show how I would select distribution partners, design compliant onboarding, govern launch dependencies, and prove channel economics.
+#### [Southeast Asia digital bank: distribution-partner launch](./projects/southeast-asia-digital-bank-partner-launch.md)
+
+Distribution can accelerate a digital bank or transfer someone else’s problems into it. I work through partner selection, compliant onboarding, launch dependencies, customer experience, and the economics required for the channel to remain attractive.
 
 ## Workplace assessments
 
-- I include my [December 2025 Workplace Insights report](./assessments/workplace-insights-report-2025-12-26.pdf) as an additional view of how I work.
-- I include my [January 2026 Workplace Insights report](./assessments/workplace-insights-report-2026-01-18.pdf) as the most recent assessment.
+If you’re interested in how I tend to work, I’ve included my [December 2025 Workplace Insights report](./assessments/workplace-insights-report-2025-12-26.pdf) and the more recent [January 2026 Workplace Insights report](./assessments/workplace-insights-report-2026-01-18.pdf).
 
