@@ -2,6 +2,11 @@
 
 Role-targeted resume for partner marketing, ecosystem strategy, enterprise AI adoption, and multi-market go-to-market programs.
 
+## Profile
+
+- Email: [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu)
+- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
+
 ## Resume formats
 
 - [View the PDF](./shivam-singh-partner-gtm.pdf)
@@ -16,14 +21,9 @@ Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly appl
 - Partner activation, enablement, and joint launches
 - Market development and internationalization
 
-## Workplace assessments
-
-- [Workplace Insights report - December 2025](./assessments/workplace-insights-report-2025-12-26.pdf)
-- [Workplace Insights report - January 2026](./assessments/workplace-insights-report-2026-01-18.pdf)
-
 ## Project interview stories
 
-Stories are grouped by their primary resume experience in reverse chronological order. Each project includes resume-ready impact, interview framing, decisions, metrics, and a link to the source page.
+Stories are grouped by their primary resume experience in reverse chronological order. Each file is an externally grounded interview case reconstruction: independent methodology, regulatory, and market sources support the content, while the resume is used only for work dates. The files do not claim independently verified engagement results.
 
 ### Amazon Web Services (AWS)
 
@@ -31,13 +31,31 @@ Stories are grouped by their primary resume experience in reverse chronological 
 
 - [APAC sovereign cloud: partner GTM](./projects/apac-sovereign-cloud-partner-gtm.md) - ecosystem design, regulated-market positioning, and joint launch
 
+### Rakuten Group, Inc.
+
+**Partner GTM - MBA Intern** | 2023
+
+- [Merchant assurance ecosystem: multi-channel partner enablement](./projects/merchant-assurance-ecosystem-partner-enablement.md) - merchant operating model, channel integration, workflow enablement, and partner economics
+
 ### Microsoft Corporation
 
 **Senior Manager, Enterprise Partner GTM** | January 2020 - August 2022
 
 - [Partner marketing: MDF and pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md) - partner segmentation, enablement, and co-marketing efficiency
 
-## Profile
+### The D. E. Shaw Group
 
-- Email: [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu)
-- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
+**Vice President, Commercial Activation** | July 2016 - December 2019
+
+- [Sovereign mandate: partner activation and expansion](./projects/sovereign-mandate-partner-activation-expansion.md) - institutional solution positioning, stakeholder education, joint governance, and relationship expansion
+
+### McKinsey & Company
+
+**Associate, Market Entry** | July 2014 - June 2016
+
+- [Southeast Asia digital bank: distribution-partner launch](./projects/southeast-asia-digital-bank-partner-launch.md) - partner requirements, regulated onboarding, launch governance, and measurable distribution economics
+
+## Workplace assessments
+
+- [Workplace Insights report - December 2025](./assessments/workplace-insights-report-2025-12-26.pdf)
+- [Workplace Insights report - January 2026](./assessments/workplace-insights-report-2026-01-18.pdf)
