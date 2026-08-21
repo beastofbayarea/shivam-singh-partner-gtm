@@ -1,56 +1,28 @@
 # Sovereign Mandate - Partner Activation and Expansion
 
-> **Portfolio lens:** Institutional partnerships, solution positioning, stakeholder education, joint governance, capability transfer, mandate origination, and relationship expansion.
+> **Document type:** Externally grounded interview case reconstruction, not a claim of an independently verified completed engagement.
+>
+> **Timeline alignment:** The [public Partner and Ecosystem GTM resume](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf) is used only to place this case within the D. E. Shaw role dated July 2016-December 2019.
 
-## Executive snapshot
+## Evidence-grounded premise
 
-Turned competing internal investment views into a partner-ready sovereign mandate proposition. A shared objective set, modular core-satellite solution, phased commitment, governance model, capability-transfer plan, and aligned fees created a credible institutional partnership that expanded through demonstrated value.
+The Santiago Principles establish governance, accountability, investment, and risk-management practices for sovereign wealth funds. The 2015 G20/OECD Principles provide an international benchmark for corporate governance and investor responsibilities. These sources support mandate activation around objectives, governance, transparency, risk limits, capability transfer, and aligned commercial terms.
 
-## Resume-ready impact
+## Case approach
 
-- Led solution design for a $1B sovereign mandate by converting internal disagreement into an explicit total-fund risk budget and one partner narrative.
-- Structured an 80% capital-preservation core and 20% growth satellite with exposure caps, quarterly rebalancing, live risk monitoring, and circuit breakers.
-- Secured an initial $500M allocation that expanded to $1.2B within 12 months and generated $15M in first-year fees.
+- Translate sovereign objectives into explicit return, risk, liquidity, governance, and capability requirements.
+- Define decision rights, reporting, escalation, conflicts, and review cadence before allocation.
+- Stage capital and expansion against demonstrated mandate behavior and operating evidence.
+- Treat local capability building and knowledge transfer as governed deliverables.
 
-## Interview story
+## Evidence-based success measures
 
-### Situation
+Use objective compliance, risk-limit adherence, reporting quality, governance exceptions, capability milestones, decision timeliness, and expansion gates. These are proposed measures, not historical results.
 
-Quant teams favored an emerging-markets strategy targeting 12-15% returns with drawdowns above 25%, while Sales preferred a Treasury-heavy 6-8% portfolio. Neither matched the partner's combined preservation, diversification, and capability goals.
+## External source map
 
-### Task
-
-Create a partner-ready solution and engagement model that aligned national objectives, investment mechanics, governance, local capability building, and commercial terms.
-
-### Actions
-
-- Paused the pitch and ran a two-day discovery and alignment workshop across Quant, Sales, Compliance, and relationship teams.
-- Defined one sovereign objective set and translated it into a modular 80/20 core-satellite proposition.
-- Embedded phased deployment, exposure caps, circuit breakers, rebalancing, and investment-committee reviews into the joint governance model.
-- Added a six-month talent-rotation program and aligned base and performance fees to the different jobs of core and satellite capital.
-- Framed each element as a partner outcome: capital preservation, measured growth, transparent governance, and in-country capability.
-
-### Results
-
-- The initial allocation was $500M.
-- Total allocation expanded to $1.2B within 12 months.
-- First-year fees reached $15M.
-- The partnership generated invitations to pitch approximately $2B in additional regional mandates.
-
-## Decisions and trade-offs
-
-- Resolve the false product binary through a modular portfolio proposition.
-- Make governance and capability transfer part of the partner value proposition.
-- Use phased commitment so trust and capital grow through evidence.
-
-## Leadership signal
-
-Unified investment, commercial, compliance, and relationship teams around the allocator's national objectives, then translated the strategy into partner positioning, enablement, governance, talent, and fee mechanisms.
-
-## Skills and keywords
-
-partner GTM - institutional partnerships - solution positioning - stakeholder education - partner activation - joint governance - capability transfer - commercial negotiation - mandate expansion - value realization
-
-## Source
-
-[Original Notion project page](https://app.notion.com/p/15ef9e255f218036a650df00182c9727)
+| Source | Contribution |
+|---|---|
+| [IFSWF - Santiago Principles (2008)](https://www.ifswf.org/santiago-principles) | Primary sovereign-wealth governance, accountability, investment, and risk principles. |
+| [OECD - G20/OECD Principles of Corporate Governance (2015)](https://doi.org/10.1787/9789264236882-en) | Primary governance and investor-responsibility framework. |
+| [Public resume](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf) | Work dates only. |

@@ -1,56 +1,28 @@
-# AWS APAC Sovereign Cloud — Regulated GTM & Local Control
+# APAC Sovereign Cloud - Partner GTM
 
-> **Portfolio lens:** Local partner strategy, regulated-market GTM, marketplace alignment, account marketing, and reusable deployment patterns.
+> **Document type:** Externally grounded interview case reconstruction, not a claim of an independently verified completed engagement.
+>
+> **Timeline alignment:** The [public Partner and Ecosystem GTM resume](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf) is used only to place this case within the AWS role dated July 2024-present.
 
-## Executive snapshot
+## Evidence-grounded premise
 
-Turned sovereignty from a procurement objection into a joint partner offer. Confidential computing, customer-controlled keys, a local identity partner, compliance-as-code, marketplace incentives, and named-account proof created a repeatable regulated-market deployment and GTM pattern.
+NIST CSF 2.0 emphasizes cybersecurity governance and supply-chain outcomes. NIST SP 800-53 Revision 5 integrates security, privacy, supply-chain risk, accountability, and evidence. These sources support sovereign-cloud partner GTM built around verifiable local control, clear shared responsibility, and qualified implementation capability rather than broad sovereignty claims.
 
-## Resume-ready impact
+## Case approach
 
-- Designed a sovereign-cloud partner motion that converted more than $20M of committed but unusable cloud capacity into eligible regulated production spend.
-- Selected and onboarded an API-first local trust partner within three weeks, aligning identity assurance with a low-friction banking journey.
-- Reduced deployment from six months to two hours, improved lead quality 3.5x, and generated $122M in pipeline through high-trust account marketing.
+- Translate jurisdiction and customer obligations into data, identity, key, support, recovery, and evidence requirements.
+- Assign control ownership across provider, distributor, integrator, managed service, and customer.
+- Qualify partners through architecture review, training, exercises, and evidence production.
+- Market only capabilities whose scope, dependencies, and limitations are substantiated.
 
-## Interview story
+## Evidence-based success measures
 
-### Situation
+Use qualified-partner coverage, control evidence, architecture findings, unresolved responsibilities, recovery exercises, claim exceptions, and customer readiness. These are proposed measures, not historical results.
 
-Banks had provisioned cloud environments but ran no regulated production workloads. Risk leaders required technical proof that foreign access was impossible, while ordinary operations still needed low-latency identity, encryption, scaling, and recovery.
+## External source map
 
-### Task
-
-Assemble a credible local ecosystem and joint value proposition that satisfied regulators, recovered existing customer commitments, and aligned partner and field incentives.
-
-### Actions
-
-- Selected a smaller API-first identity provider over a larger walled-garden partner because embedded banking integration mattered more than consumer reach.
-- Designed split root control, local keys, confidential computing, and automated daily working keys.
-- Encoded residency, logging, identity, encryption, and networking into a reusable landing zone.
-- Replaced broad social acquisition with named accounts, a verified portal, live proof, and a cloud-trust-implementation partner trio.
-
-### Results
-
-- Deployment fell from six months to two hours.
-- Key operations improved from roughly ten seconds to sub-millisecond performance.
-- Lead quality increased 3.5x, and the treated market produced 78% more CIO meetings.
-- The motion generated $122M in pipeline and unlocked more than $20M in committed spend.
-
-## Decisions and trade-offs
-
-- Choose the partner that fit the product architecture, not the best-known consumer brand.
-- Make marketplace revenue count toward field quotas to align ecosystem incentives.
-- Use live evidence and secure account engagement instead of generic compliance claims.
-
-## Leadership signal
-
-Aligned banks, local trust infrastructure, implementation partners, marketplace teams, sellers, security, and regulators around one partner-ready deployment pattern.
-
-## Skills and keywords
-
-partner GTM · ecosystem strategy · sovereign cloud · regulated markets · local partner · marketplace · co-sell · account-based marketing · partner enablement · internationalization
-
-## Source
-
-[Original Notion project page](https://app.notion.com/p/2eaf9e255f2180a98828df70ee5a2f19)
-
+| Source | Contribution |
+|---|---|
+| [NIST - Cybersecurity Framework 2.0 (2024)](https://doi.org/10.6028/NIST.CSWP.29) | Primary cybersecurity governance and supply-chain framework. |
+| [NIST - SP 800-53 Revision 5 (2020)](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) | Primary security, privacy, accountability, and control evidence. |
+| [Public resume](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf) | Work dates only. |
