@@ -31,6 +31,12 @@ Stories are grouped by their primary resume experience in reverse chronological 
 
 - [APAC sovereign cloud: partner GTM](./projects/apac-sovereign-cloud-partner-gtm.md) - ecosystem design, regulated-market positioning, and joint launch
 
+### Rakuten Group, Inc.
+
+**Partner GTM - MBA Intern** | 2023
+
+- [Merchant assurance ecosystem: multi-channel partner enablement](./projects/merchant-assurance-ecosystem-partner-enablement.md) - merchant operating model, channel integration, workflow enablement, and partner economics
+
 ### Microsoft Corporation
 
 **Senior Manager, Enterprise Partner GTM** | January 2020 - August 2022
