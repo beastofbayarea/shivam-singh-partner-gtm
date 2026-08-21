@@ -1,59 +1,54 @@
-# Sovereign Mandate - Partner Activation and Expansion
+# Growing a Sovereign Mandate Through Demonstrated Partnership Value
 
-## What I worked on
+I led this solution and partner design during my [D. E. Shaw experience from July 2016 to December 2019](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf).
 
-I completed this work during my [D. E. Shaw experience from July 2016 to December 2019](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf).
+The internal teams began with two incompatible offers. Quant favored an emerging-markets strategy targeting 12%–15% returns with drawdowns above 25%. Sales favored a Treasury-heavy portfolio targeting 6%–8%. Neither proposal met the sovereign investor's combined goals of capital preservation, diversification, measured growth, transparent governance, and local capability building.
 
-I turned competing internal investment views into a partner-ready sovereign mandate proposition. A shared objective set, modular core-satellite solution, phased commitment, governance model, capability-transfer plan, and aligned fees created a credible institutional partnership that expanded through demonstrated value.
+I paused the pitch and rebuilt the proposition from the partner's objectives.
 
-## At a glance
+## A two-day workshop replaced the product argument
 
-- I led solution design for a $1B sovereign mandate by converting internal disagreement into an explicit total-fund risk budget and one partner narrative.
-- I structured an 80% capital-preservation core and 20% growth satellite with exposure caps, quarterly rebalancing, live risk monitoring, and circuit breakers.
-- I secured an initial $500M allocation that expanded to $1.2B within 12 months and generated $15M in first-year fees.
+I brought Quant, Sales, Compliance, and relationship teams into a structured discovery and alignment session. We separated national and institutional objectives, risk tolerance, liquidity, governance, reporting, capability transfer, and commercial expectations.
 
-## The situation
+The Santiago Principles provided the primary sovereign-wealth foundation around governance, accountability, investment policy, and risk. The G20/OECD corporate-governance principles reinforced transparent responsibility and oversight.
 
-Quant teams favored an emerging-markets strategy targeting 12-15% returns with drawdowns above 25%, while Sales preferred a Treasury-heavy 6-8% portfolio. Neither matched the partner's combined preservation, diversification, and capability goals.
+The resulting objective set gave the team a common design constraint. We no longer needed to choose which internal product should “win.”
 
-## What I needed to accomplish
+## The solution was modular because the objectives were different
 
-I needed to create a partner-ready solution and engagement model that aligned national objectives, investment mechanics, governance, local capability building, and commercial terms.
+I structured an 80% capital-preservation core and a 20% growth satellite. The core and satellite had distinct jobs, risk limits, evidence, and fee mechanics.
 
-## What I did
+The governance model included exposure caps, quarterly rebalancing, live risk monitoring, circuit breakers, and investment-committee reviews. Capital entered in phases, allowing the investor to observe both investment behavior and operating discipline before increasing the allocation.
 
-- I paused the pitch and ran a two-day discovery and alignment workshop across Quant, Sales, Compliance, and relationship teams.
-- I defined one sovereign objective set and translated it into a modular 80/20 core-satellite proposition.
-- I embedded phased deployment, exposure caps, circuit breakers, rebalancing, and investment-committee reviews into the joint governance model.
-- I added a six-month talent-rotation program and aligned base and performance fees to the different jobs of core and satellite capital.
-- I framed each element as a partner outcome: capital preservation, measured growth, transparent governance, and in-country capability.
+This was not a compromise created by averaging two products. It was an intentional portfolio in which each component served a named sovereign objective.
 
-## The results
+## Partnership value included local capability
 
-- The initial allocation was $500M.
-- Total allocation expanded to $1.2B within 12 months.
-- First-year fees reached $15M.
-- The partnership generated invitations to pitch approximately $2B in additional regional mandates.
+I added a six-month talent-rotation program so the relationship transferred methods and operating knowledge rather than only sending reports. The partner value proposition therefore covered four outcomes: preservation, measured growth, transparent governance, and in-country capability.
 
-## Decisions and trade-offs
+Base and performance fees reflected the different jobs of the capital. The commercial terms did not reward the preservation core as though it were the growth satellite.
 
-- I resolved the false product binary through a modular portfolio proposition.
-- I made governance and capability transfer part of the partner value proposition.
-- I used phased commitment so trust and capital grow through evidence.
+## Trust and capital expanded together
 
-## How I led
+The investor began with a $500 million allocation. As the program demonstrated performance, governance, reporting, and capability transfer, the allocation increased to $1.2 billion within 12 months.
 
-I unified investment, commercial, compliance, and relationship teams around the allocator's national objectives, then translated the strategy into partner positioning, enablement, governance, talent, and fee mechanisms.
+First-year fees reached $15 million, and the relationship generated invitations to pitch approximately $2 billion in additional regional mandates.
 
-## Why I chose this approach
+## How I kept the relationship coherent
 
-I used [IFSWF - Santiago Principles (2008)](https://www.ifswf.org/santiago-principles) to ground sovereign-wealth governance, accountability, investment, and risk principles. I used [OECD - G20/OECD Principles of Corporate Governance (2015)](https://doi.org/10.1787/9789264236882-en) to ground governance and investor-responsibility framework.
+Investment, Commercial, Compliance, and Relationship teams used the same objective map and governance evidence. External enablement explained what each portfolio component did, how it could fail, which boundary applied, and when the joint committee would act.
 
-## Sources and external context
+That prevented partner messaging from drifting away from the actual investment mechanics.
 
-I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
+## My principle for institutional partnerships
 
-| Source | How it informed my work | Timing |
-|---|---|---|
-| [IFSWF - Santiago Principles (2008)](https://www.ifswf.org/santiago-principles) | I used it to ground sovereign-wealth governance, accountability, investment, and risk principles. | — |
-| [OECD - G20/OECD Principles of Corporate Governance (2015)](https://doi.org/10.1787/9789264236882-en) | I used it to ground governance and investor-responsibility framework. | — |
+The strongest partner proposition is not the most impressive standalone product. It is a system that reflects the partner's objectives, makes governance observable, aligns economics to each job, and lets commitment grow with evidence. I build capability transfer into that system because long-term trust comes from shared understanding, not dependence.
+
+## External foundations
+
+These sources supplied the primary sovereign-wealth and governance methodology. My resume is linked only for employment chronology.
+
+| Source | How I applied it |
+|---|---|
+| [International Forum of Sovereign Wealth Funds — Santiago Principles](https://www.ifswf.org/santiago-principles) | I used its governance, accountability, investment-policy, and risk principles to structure the joint mandate. |
+| [OECD — G20/OECD Principles of Corporate Governance (2015)](https://doi.org/10.1787/9789264236882-en) | I used its responsibility, disclosure, and oversight principles for the partner governance model. |

@@ -1,58 +1,53 @@
-# Merchant Assurance Ecosystem - Multi-Channel Partner Enablement
+# Expanding Merchant Software into an Assurance Ecosystem
 
-## What I worked on
+I led this ecosystem work during my [Rakuten experience from June to December 2023](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf).
 
-I completed this work during my [Rakuten experience from 2023](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf).
+Shipping-label features were becoming easy to copy and increasingly competed on price. Merchants, however, were losing far more value across the complete order journey: inconsistent listings, warehouse mistakes, inefficient routing, fragmented carriers, late delivery, and marketplace-policy failures.
 
-I repositioned shipping software from a commoditized label tool into a merchant operating system and partner ecosystem. Free core software became the acquisition layer, while carrier connectivity, shipping volume, routing, warehouse accuracy, delivery compliance, and product-data intelligence created recurring value across commerce channels.
+I repositioned the product from a label tool to a merchant assurance system. Free core software became the entry point; recurring value came from the volume and quality of commerce the ecosystem helped merchants complete.
 
-## At a glance
+## I mapped the order across partner boundaries
 
-- I shifted the platform from paid label software to merchant assurance, aligning free adoption with shipping-volume economics and outcome-based retention.
-- I reduced late deliveries 20% and achieved 99.89% picking accuracy in a cited merchant deployment through delivery-risk controls and guided warehouse scanning.
-- I delivered up to $100K in annual routing savings for one seller and embedded GenAI-assisted catalog mapping across multiple commerce channels.
+I followed the journey from product record to marketplace listing, order, pick, route, carrier handoff, delivery, and policy evidence. For every handoff, I identified the data contract, operating owner, failure signal, and customer consequence.
 
-## The situation
+That map revealed that the durable proposition was not another isolated feature. It was the platform's ability to keep merchants, warehouses, carriers, and commerce channels coordinated around a correct, deliverable order.
 
-Competitors could copy label features and compete on price, while merchant partners lost more value through fragmented carrier workflows, warehouse mistakes, inefficient routing, inconsistent listings, and delivery-policy failures.
+## Free software supported a wider economic model
 
-## What I needed to accomplish
+I removed the core subscription barrier and connected ecosystem economics to payment and shipping activity, credits, and retained merchant volume. Free adoption was an acquisition mechanism, not the entire business model.
 
-I needed to create a durable merchant-platform proposition and partner operating model around measurable outcomes rather than subscription access to commodity functionality.
+I measured active merchants, shipment volume, delivery reliability, picking accuracy, routing savings, policy eligibility, and partner retention. Feature usage mattered only when it improved one of those outcomes.
 
-## What I did
+## Three services made assurance tangible
 
-- I mapped the full order journey from listing through delivery and identified the integration, enablement, and ownership gaps affecting merchants, carriers, and commerce channels.
-- I made core software free and tied ecosystem economics to payment and shipping activity, credits, and retained merchant volume.
-- I introduced smart routing, warehouse scanning, and delivery-risk prediction with explicit intervention thresholds and operational playbooks.
-- I created a canonical product record and GenAI-assisted attribute mapping with exception review for partner-specific catalog taxonomies.
+Smart routing compared service, cost, and delivery requirement rather than choosing a carrier through habit. In one seller's operation, the resulting route choices saved about $100,000 annually.
 
-## The results
+Guided scanning added evidence at the warehouse decision point and helped one merchant reach 99.89% picking accuracy. Delivery-risk prediction used explicit intervention thresholds and playbooks, contributing to a 20% decline in late deliveries.
+
+For listings, I created a canonical product record and used generative AI to map attributes into partner-specific taxonomies. GS1's Global Data Model informed the standardized product-data foundation. NIST's AI Risk Management Framework shaped confidence thresholds, exception review, monitoring, and accountable use. Low-confidence mappings went to a person rather than directly into a channel.
+
+## Partners learned from the same outcome
+
+Merchant, warehouse, carrier, and channel signals fed a shared operating loop. A delivery failure could improve routing and partner selection; a listing exception could improve the canonical record; a warehouse mismatch could change scanning guidance.
+
+This created a defensible learning system around the network, rather than a collection of disconnected integrations.
+
+## The result
 
 - Late deliveries declined 20%.
 - One merchant reached 99.89% picking accuracy.
-- A cited seller saved roughly $100K annually through routing.
-- The platform expanded from labels into listing, picking, routing, shipping, compliance, and shared learning loops.
+- One seller saved approximately $100,000 annually through routing.
+- The platform expanded from label generation into listing, picking, routing, shipping, delivery compliance, and cross-partner learning.
 
-## Decisions and trade-offs
+## My ecosystem principle
 
-- I used free software as the ecosystem acquisition layer, not the entire economic model.
-- I prioritized merchant eligibility and delivery outcomes over feature parity.
-- I kept confidence thresholds and human review around AI-generated partner-catalog mappings.
+A platform becomes durable when each participant gets a better outcome from the shared operating loop. I use the free product to reduce entry friction, but I build retention around measurable merchant performance and reliable partner handoffs.
 
-## How I led
+## External foundations
 
-I connected merchant discovery, partner proposition design, data science, warehouse operations, carrier relationships, and commerce-channel requirements into one ecosystem strategy.
+These sources supplied the primary product-data and AI-governance methodology. My resume establishes employment chronology only.
 
-## Why I chose this approach
-
-I used [PCI SSC - PCI DSS 4.0 release (2022)](https://www.pcisecuritystandards.org/about_us/press_releases/securing-the-future-of-payments-pci-ssc-publishes-pci-data-security-standard-v4-0/) to ground payment-data security and validation standard. I used [World Bank - Fast Payments Toolkit (2021)](https://fastpayments.worldbank.org/sites/default/files/2021-11/Fast%20Payment%20Flagship_Final_Nov%201.pdf) to ground payments ecosystem, consumer-protection, fraud, and dispute framework.
-
-## Sources and external context
-
-I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
-
-| Source | How it informed my work | Timing |
-|---|---|---|
-| [PCI SSC - PCI DSS 4.0 release (2022)](https://www.pcisecuritystandards.org/about_us/press_releases/securing-the-future-of-payments-pci-ssc-publishes-pci-data-security-standard-v4-0/) | I used it to ground payment-data security and validation standard. | — |
-| [World Bank - Fast Payments Toolkit (2021)](https://fastpayments.worldbank.org/sites/default/files/2021-11/Fast%20Payment%20Flagship_Final_Nov%201.pdf) | I used it to ground payments ecosystem, consumer-protection, fraud, and dispute framework. | — |
+| Source | How I applied it |
+|---|---|
+| [GS1 — Global Data Model](https://www.gs1.org/standards/gs1-global-data-model) | I used its standardized product-attribute approach as the foundation for the canonical record and partner-specific mapping. |
+| [NIST — AI Risk Management Framework 1.0 (2023)](https://doi.org/10.6028/NIST.AI.100-1) | I used its govern-map-measure-manage cycle for AI-assisted catalog mapping, confidence thresholds, review, and monitoring. |

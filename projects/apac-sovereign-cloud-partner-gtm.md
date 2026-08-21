@@ -1,58 +1,49 @@
-# AWS APAC Sovereign Cloud — Regulated GTM & Local Control
+# Building a Partner Motion for Sovereign Cloud in APAC
 
-## What I worked on
+I led this work during my [AWS experience beginning in July 2024](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf).
 
-I completed this work during my [AWS experience from July 2024 to present](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf).
+Banks had committed more than $20 million to cloud capacity but had not moved regulated production workloads. The obstacle was not generic cloud adoption. Risk leaders needed technical evidence about access, jurisdiction, keys, identity, logging, and recovery, while normal banking journeys still required low latency and reliable operations.
 
-I turned sovereignty from a procurement objection into a joint partner offer. Confidential computing, customer-controlled keys, a local identity partner, compliance-as-code, marketplace incentives, and named-account proof created a repeatable regulated-market deployment and GTM pattern.
+I turned that constraint into a joint offer across cloud, local trust infrastructure, implementation partners, marketplace incentives, and named-account go-to-market.
 
-## At a glance
+## I selected the partner for the workflow
 
-- I designed a sovereign-cloud partner motion that converted more than $20M of committed but unusable cloud capacity into eligible regulated production spend.
-- I selected and onboarded an API-first local trust partner within three weeks, aligning identity assurance with a low-friction banking journey.
-- I reduced deployment from six months to two hours, improved lead quality 3.5x, and generated $122M in pipeline through high-trust account marketing.
+A large consumer identity brand offered reach, but its walled-garden model did not fit embedded banking. I chose a smaller API-first local trust provider that could integrate directly into the journey and support the required assurance evidence.
 
-## The situation
+The provider was selected and onboarded within three weeks. The decision criteria covered assurance level, API behavior, latency, recovery, evidence, local operation, commercial alignment, and the ability to participate in a broader partner architecture.
 
-Banks had provisioned cloud environments but ran no regulated production workloads. Risk leaders required technical proof that foreign access was impossible, while ordinary operations still needed low-latency identity, encryption, scaling, and recovery.
+## Sovereignty became deployable configuration
 
-## What I needed to accomplish
+I designed split-root control, customer-controlled local keys, confidential computing, and automated daily working keys. Residency, identity, encryption, networking, logging, and evidence were encoded in a reusable landing zone.
 
-I needed to assemble a credible local ecosystem and joint value proposition that satisfied regulators, recovered existing customer commitments, and aligned partner and field incentives.
+NIST SP 800-53 Revision 5 provided the primary control framework across access, audit, cryptography, privacy, contingency, supply chain, and accountability. NIST's Cybersecurity Framework 2.0 shaped the multi-party governance model: each participating organization needed named outcomes and ownership across govern, identify, protect, detect, respond, and recover.
 
-## What I did
+The result did not claim that “foreign access is impossible” as a marketing slogan. It demonstrated which controls restricted access, who held authority, how evidence was produced, and what happened during failure or recovery.
 
-- I selected a smaller API-first identity provider over a larger walled-garden partner because embedded banking integration mattered more than consumer reach.
-- I designed split root control, local keys, confidential computing, and automated daily working keys.
-- I encoded residency, logging, identity, encryption, and networking into a reusable landing zone.
-- I replaced broad social acquisition with named accounts, a verified portal, live proof, and a cloud-trust-implementation partner trio.
+## The partner offer joined proof and implementation
 
-## The results
+I replaced broad social acquisition with named-account engagement. A bank could move from a verified portal to live technical proof and then into a cloud-trust-implementation partner trio with clear roles.
 
-- Deployment fell from six months to two hours.
+Marketplace revenue counted toward field quotas, which removed a familiar channel conflict: sellers no longer had to choose between direct credit and a partner-led outcome. The offer also reused one control and evidence pattern across accounts while allowing local policy and architecture decisions to remain explicit.
+
+## What changed
+
+- Deployment time fell from six months to two hours.
 - Key operations improved from roughly ten seconds to sub-millisecond performance.
-- Lead quality increased 3.5x, and the treated market produced 78% more CIO meetings.
-- The motion generated $122M in pipeline and unlocked more than $20M in committed spend.
+- Lead quality increased 3.5 times.
+- The treated market generated 78% more CIO meetings.
+- The motion produced $122 million in pipeline.
+- More than $20 million in committed cloud capacity became eligible for regulated production use.
 
-## Decisions and trade-offs
+## The partner lesson
 
-- I chose the partner that fit the product architecture, not the best-known consumer brand.
-- I made marketplace revenue count toward field quotas to align ecosystem incentives.
-- I used live evidence and secure account engagement instead of generic compliance claims.
+In a regulated market, a partner ecosystem is part of the product. The local trust provider, implementation firm, marketplace, field team, security owner, and customer all need a visible role in the assurance chain. I design the joint offer around that chain, then market the evidence rather than a broad compliance label.
 
-## How I led
+## External foundations
 
-I aligned banks, local trust infrastructure, implementation partners, marketplace teams, sellers, security, and regulators around one partner-ready deployment pattern.
+These sources supplied the primary cybersecurity and control methodology. My resume is linked only to establish employment chronology.
 
-## Why I chose this approach
-
-I used [NIST - Cybersecurity Framework 2.0 (2024)](https://doi.org/10.6028/NIST.CSWP.29) to ground cybersecurity governance and supply-chain framework. I used [NIST - SP 800-53 Revision 5 (2020)](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) to ground security, privacy, accountability, and control evidence.
-
-## Sources and external context
-
-I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
-
-| Source | How it informed my work | Timing |
-|---|---|---|
-| [NIST - Cybersecurity Framework 2.0 (2024)](https://doi.org/10.6028/NIST.CSWP.29) | I used it to ground cybersecurity governance and supply-chain framework. | — |
-| [NIST - SP 800-53 Revision 5 (2020)](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) | I used it to ground security, privacy, accountability, and control evidence. | — |
+| Source | How I applied it |
+|---|---|
+| [NIST — SP 800-53 Revision 5 (2020)](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) | I used its access, audit, cryptography, privacy, contingency, supply-chain, and accountability controls for the landing zone and evidence package. |
+| [NIST — Cybersecurity Framework 2.0 (2024)](https://doi.org/10.6028/NIST.CSWP.29) | I used its outcome-based functions to assign governance across cloud, trust, implementation, field, and customer teams. |
