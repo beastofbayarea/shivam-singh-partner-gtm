@@ -2,7 +2,7 @@
 
 > **Experience alignment:** McKinsey & Company, Associate, Market Entry, July 2014-June 2016.
 
-> **Grounding standard:** This is a conservative interview reconstruction. Candidate-specific role, action, and outcome claims come from the [public role-targeted resume](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf). The remaining sources establish market, payment-infrastructure, AML/CFT, and sandbox conditions available during the experience window; they do not independently verify the candidate's participation.
+> **Evidence hierarchy:** Contemporaneous external market, payment-infrastructure, AML/CFT, and sandbox sources are the primary grounding for the partner model, control design, launch gates, and trade-offs. The [public role-targeted resume](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf) is secondary evidence used only for the work-experience dates and candidate-specific outcome claims. The external sources do not independently verify the candidate's participation.
 
 ## Portfolio lens
 
@@ -61,10 +61,10 @@ partner GTM · distribution strategy · digital banking · partner onboarding ·
 
 | Evidence used | External source | Publication timing |
 |---|---|---|
-| Candidate role, July 2014-June 2016 timeline, partner responsibilities, 400-plus features, and user, approval, NPL, and CAC outcomes | [Public Partner & Ecosystem GTM resume](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf) | Current public artifact describing July 2014-June 2016 experience |
 | East Asia and Pacific account ownership, remaining unbanked population, and digital-payment opportunity | [World Bank - Global Findex 2014 launch](https://www.worldbank.org/en/news/feature/2015/04/20/global-findex-2014-unveils-worlds-most-comprehensive-set-of-data-on-financial-inclusion) | April 2015 |
 | Identification infrastructure, interoperability, transaction accounts, and broad payment access | [BIS and World Bank - Payment aspects of financial inclusion](https://www.bis.org/cpmi/publ/d144.htm) | April 2016 |
 | Risk-based AML/CFT responsibilities for mobile and internet-based payment services | [FATF - Risk-based approach for prepaid cards, mobile payments and internet-based payment services](https://www.fatf-gafi.org/content/dam/fatf/documents/recommendations/Guidance-RBA-NPPS.pdf) | June 2013 |
 | Controlled FinTech experimentation, safeguards, evaluation criteria, and bounded regulatory relief | [Monetary Authority of Singapore - Regulatory sandbox consultation](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20160606006/Media%20release%20-%20Public%20Consultation%20on%20Sandbox%20Guidelines_FINAL.pdf) | June 6, 2016 |
+| Secondary alignment only: candidate role, July 2014-June 2016 timeline, partner responsibilities, 400-plus features, and user, approval, NPL, and CAC outcomes | [Public Partner & Ecosystem GTM resume](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf) | Current public artifact describing July 2014-June 2016 experience |
 
 All market, regulatory, and payment-method sources predate or fall within the July 2014-June 2016 work-experience window.
