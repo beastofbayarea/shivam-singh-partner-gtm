@@ -8,6 +8,8 @@ The work occurred during my D. E. Shaw role from July 2016 to December 2019. I d
 
 The internal proposals were individually coherent and collectively unusable.
 
+I owned the redesign from product pitch to sovereign partnership: objective discovery, 80/20 solution architecture, tranche economics, joint governance, six-month capability transfer, and the evidence record for expansion. That system helped turn a $500 million starting allocation into a reported $1.2 billion mandate within 12 months, $15 million of first-year fees, and invitations to pitch another roughly $2 billion—while keeping invitations, AUM, and fees as three different commercial facts.
+
 - Quant favored an emerging-markets strategy targeting 12%–15% return with drawdowns above 25%.
 - Sales favored a Treasury-heavy portfolio targeting 6%–8%.
 - The investor needed preservation, diversification beyond national oil exposure, measured growth, transparent governance, liquidity, and development of local investment capability.
@@ -88,4 +90,3 @@ I owned objective discovery, internal alignment, solution architecture, phased c
 - [OECD — G20/OECD Principles of Corporate Governance (2015)](https://doi.org/10.1787/9789264236882-en) supports explicit oversight, disclosure, and responsibility.
 - [Oman Investment Authority — Investor Guide](https://www.oia.gov.om/uploads/Investor_Guide_Final_ada97d4863.pdf) states that OIA was established in June 2020 by merging the predecessor sovereign funds; it is used to prevent, not create, a client-name claim.
 - [Royal Decree 61/2020](https://www.oia.gov.om/uploads/Royal_Decree_Establishing_the_Oman_Investment_Authority_e876f90d51.pdf) is the primary chronology source for that institutional change.
-

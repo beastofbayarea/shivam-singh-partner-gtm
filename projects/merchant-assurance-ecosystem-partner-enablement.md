@@ -10,6 +10,8 @@ A label is an artifact. A merchant earns trust only when the listed item exists,
 
 I modeled that promise as an ordered contract:
 
+I owned the ecosystem product boundary across merchant truth, channel schemas, warehouse proof, carrier economics, delivery intervention, dispute evidence, and partner reciprocity. The strategic scale came from making every handoff improve the next participant's decision while preserving provenance—an operating moat broader than label software, but deliberately separate from public Veeqo customer results I did not cause.
+
 `product record → channel listing → inventory reservation → pick evidence → rate/service choice → carrier scan → delivery event → marketplace protection`
 
 At each arrow I specified the producing partner, consuming partner, minimum data, freshness expectation, exception signal, customer harm, and recovery owner. The map changed the roadmap conversation. Instead of asking which label feature to copy, we could ask which broken handoff destroyed the most merchant value and which participant had the best signal to prevent it.
@@ -89,4 +91,3 @@ The strongest quantified evidence has different provenance and I keep it separat
 - [Veeqo — Indigo Herbs](https://www.veeqo.com/gb/customer-stories/indigo-herbs) is the source for the 99.89% accuracy and doubled-throughput case.
 - [GS1 Global Data Model](https://www.gs1.org/standards/gs1-global-data-model) supports the canonical product-record design.
 - [NIST AI Risk Management Framework 1.0](https://doi.org/10.6028/NIST.AI.100-1) supports the AI mapping controls and human exception path.
-

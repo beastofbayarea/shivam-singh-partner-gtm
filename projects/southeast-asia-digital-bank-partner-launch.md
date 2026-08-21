@@ -4,6 +4,8 @@ I led the partner operating model for a Southeast Asian digital bank launch. I h
 
 I completed the work during my McKinsey role from July 2014 to June 2016. The product was a new bank, but the hard design problem was a chain of delegated decisions: a channel found the customer, an identity vendor established who they were, a data provider supplied consented behavioral signals, a model assessed risk, a payment system made the account useful, and servicing and collections teams owned what happened afterward.
 
+I owned that chain as one partner operating system: write the handoff contracts, translate more than 400 model features into permitted partner evidence, align four partner scorecards, bind incentives to active and safely served customers, and hold expansion behind a common risk-and-growth record. The launch reached 100,000 active customers in 90 days with approval above 40%, CAC below $10, and reported NPLs of 2.4%—results that only remain meaningful when read together.
+
 ## The launch contract followed the customer, not the org chart
 
 For each handoff I wrote an operating contract with the same fields: permitted purpose, minimum data, consent evidence, quality threshold, response time, exception owner, customer communication, retained audit evidence, and stop condition.
@@ -72,4 +74,3 @@ That was my central ownership: turning a collection of vendor and channel contra
 - [CPMI and World Bank — Payment aspects of financial inclusion, April 2016](https://www.bis.org/cpmi/publ/d144.htm) supports the emphasis on useful transaction accounts and measured usage.
 - [FATF — Risk-based approach to mobile and internet payments, June 2013](https://www.fatf-gafi.org/content/dam/fatf-gafi/guidance/Guidance-RBA-NPPS.pdf.coredownload.pdf) informed the proportional identity and monitoring design.
 - [MAS — Regulatory sandbox consultation, June 2016](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20160606006/Media%20release%20-%20Public%20Consultation%20on%20Sandbox%20Guidelines_FINAL.pdf) is used only as a period-appropriate method for bounded testing.
-
