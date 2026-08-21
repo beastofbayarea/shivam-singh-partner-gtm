@@ -21,6 +21,13 @@ Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly appl
 - [Workplace Insights report - December 2025](./assessments/workplace-insights-report-2025-12-26.pdf)
 - [Workplace Insights report - January 2026](./assessments/workplace-insights-report-2026-01-18.pdf)
 
+## Project interview stories
+
+Each story adapts a portfolio project to this role narrative, with resume-ready impact, interview framing, decisions, metrics, and a link to the source page.
+
+- [APAC sovereign cloud: partner GTM](./projects/apac-sovereign-cloud-partner-gtm.md) - ecosystem design, regulated-market positioning, and joint launch
+- [Partner marketing: MDF and pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md) - partner segmentation, enablement, and co-marketing efficiency
+
 ## Profile
 
 - Email: [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu)
