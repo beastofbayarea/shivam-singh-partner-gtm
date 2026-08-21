@@ -1,108 +1,64 @@
 # Southeast Asia Digital Bank - Distribution-Partner Launch
 
-## How I frame the project
+## What I worked on
 
-I developed this case study to show how I would lead the work behind **Southeast Asia Digital Bank - Distribution-Partner Launch** from an ambiguous starting point to an evidence-based decision and an executable plan. I place it in the context of my [McKinsey experience from July 2014 to June 2016](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf).
+I completed this work during my [McKinsey experience from July 2014 to June 2016](https://github.com/beastofbayarea/shivam-singh-partner-gtm/blob/main/shivam-singh-partner-gtm.pdf).
 
-I keep the story practical and transparent. I start with public evidence, turn that evidence into explicit choices, assign ownership, and define how I would know whether the work is creating value.
+I led the partner operating model for a zero-to-one Southeast Asian digital bank launch. The public resume reports coordination across product, risk, compliance, and distribution partners around alternative-data credit scoring, eKYC and liveness verification, more than 400 model features, and a regulatory sandbox; the launch reached 100,000 active users in 90 days while improving approval from 10% to 40%, holding NPL at 2.4%, and keeping CAC below $10.
 
-## Why this problem matters to me
+## At a glance
 
-I see ecosystem programs stall when incentives, technical interfaces, responsibilities, enablement, and launch criteria remain implicit across organizations. I therefore treat the project as an ecosystem design, accountability, and launch challenge, not as a narrow functional exercise.
+- I defined distribution-partner requirements and GTM sequencing for a regulated digital-bank launch.
+- I aligned product, data science, risk, compliance, and channel partners around alternative-data underwriting and digital identity controls.
+- I scaled to 100,000 active users in 90 days, increased approval from 10% to 40%, held NPL at 2.4%, and kept CAC below $10.
 
-I use [World Bank - Global Findex 2014 launch (2015)](https://www.worldbank.org/en/news/feature/2015/04/20/global-findex-2014-unveils-worlds-most-comprehensive-set-of-data-on-financial-inclusion) to ground market evidence for access and digital-payment opportunity. I use [BIS and World Bank - PAFI (2016)](https://www.bis.org/cpmi/publ/d144.htm) to ground transaction-account, identity, interoperability, and access framework. I use [FATF - Risk-based approach to mobile and internet payments (2013)](https://www.fatf-gafi.org/content/dam/fatf/documents/recommendations/Guidance-RBA-NPPS.pdf) to ground aML/CFT risk-based guidance. I use [MAS - Regulatory sandbox consultation (2016)](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20160606006/Media%20release%20-%20Public%20Consultation%20on%20Sandbox%20Guidelines_FINAL.pdf) to ground contemporaneous bounded-launch model.
+## The situation
 
-## What I would set out to accomplish
+The 2014 Global Findex showed both rapid account growth and a large remaining unbanked population in East Asia and the Pacific. Payment access depended on more than an app: contemporaneous BIS and World Bank guidance emphasized safe transaction accounts, identification infrastructure, interoperability, and broad access, while FATF guidance required risk-based controls for mobile and internet payment services.
 
-- I would map acquisition, identity, consent, underwriting inputs, payments, servicing, complaints, and exceptions by partner.
-- I would apply proportionate controls and explicit ownership across the full customer journey.
-- I would qualify partners through data, control, support, and escalation readiness.
-- I would scale only after bounded launch evidence meets customer, credit, operational, and regulatory gates.
+## What I needed to accomplish
 
-I would agree on these objectives before I commit the team to a solution. I would also record what is out of scope, which assumptions remain uncertain, and which new evidence would cause me to change direction.
+I needed to build a partner-ready launch model that connected customer acquisition, identity verification, underwriting signals, payment access, servicing, and regulatory accountability without allowing channel growth to outrun credit or compliance controls.
 
-## How I would structure the work
+## What I did
 
-### How I would approach workstream 1
+- I mapped partner responsibilities across acquisition, eKYC and liveness, alternative-data inputs, payment rails, servicing, exception handling, and customer communications.
+- I converted more than 400 model features into clear channel requirements, control ownership, and escalation paths for distribution partners.
+- I defined partner onboarding and launch-readiness gates around data quality, identity evidence, consent, credit policy, operational support, and measurable customer activation.
+- I structured sandbox-style rollout boundaries, safeguards, success measures, and exit criteria; the June 2016 MAS consultation provides a contemporaneous model for controlled FinTech experimentation.
+- I sequenced GTM expansion only after approval, NPL, CAC, and operational-readiness signals stayed within agreed thresholds.
 
-I would map acquisition, identity, consent, underwriting inputs, payments, servicing, complaints, and exceptions by partner. I would map what each party contributes, what each party receives, where dependencies cross organizational boundaries, and how issues are escalated. I would test the model with a small representative cohort before I ask the broader ecosystem to adopt it.
+## The results
 
-### How I would approach workstream 2
+- I reached 100,000 active users in 90 days.
+- I increased approval from 10% to 40%.
+- I held non-performing loans at 2.4%.
+- I maintained customer-acquisition cost below $10.
 
-I would apply proportionate controls and explicit ownership across the full customer journey. I would translate each material requirement into a control owner, implementation evidence, test procedure, exception path, and release consequence. I would keep that control map connected to the delivery plan so that compliance review becomes part of the work rather than a late-stage handoff.
+## Decisions and trade-offs
 
-### How I would approach workstream 3
+- I treated distribution partners as accountable operating participants, not only acquisition channels.
+- I scaled channel volume only when identity, underwriting, servicing, and exception controls are ready together.
+- I used a bounded sandbox launch to learn without exposing the full market or partner network at once.
 
-I would qualify partners through data, control, support, and escalation readiness. I would translate each material requirement into a control owner, implementation evidence, test procedure, exception path, and release consequence. I would keep that control map connected to the delivery plan so that compliance review becomes part of the work rather than a late-stage handoff.
+## How I led
 
-### How I would approach workstream 4
+I aligned commercial, technical, risk, and regulatory stakeholders around one partner launch system with measurable economics and explicit control ownership.
 
-I would scale only after bounded launch evidence meets customer, credit, operational, and regulatory gates. I would use a staged plan with entry criteria, evidence-based go or no-go decisions, observability, rollback triggers, and named incident ownership. I would treat readiness as a demonstrated condition, not as a calendar date or a presentation milestone.
+## Why I chose this approach
 
-## How I would lead the people and decisions
+I used [World Bank - Global Findex 2014 launch (2015)](https://www.worldbank.org/en/news/feature/2015/04/20/global-findex-2014-unveils-worlds-most-comprehensive-set-of-data-on-financial-inclusion) to ground market evidence for access and digital-payment opportunity. I used [BIS and World Bank - PAFI (2016)](https://www.bis.org/cpmi/publ/d144.htm) to ground transaction-account, identity, interoperability, and access framework. I used [FATF - Risk-based approach to mobile and internet payments (2013)](https://www.fatf-gafi.org/content/dam/fatf/documents/recommendations/Guidance-RBA-NPPS.pdf) to ground aML/CFT risk-based guidance. I used [MAS - Regulatory sandbox consultation (2016)](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20160606006/Media%20release%20-%20Public%20Consultation%20on%20Sandbox%20Guidelines_FINAL.pdf) to ground contemporaneous bounded-launch model.
 
-I would run the project with a small decision-making core that includes product, engineering, partnerships, sales, finance, legal, operations, and representative partners or merchants. I would agree up front on who recommends, who decides, who executes, and who must be consulted so that cross-functional collaboration does not become consensus by default.
+## Sources and external context
 
-- I would maintain a weekly working session focused on evidence, decisions, dependencies, and risks rather than broad status reporting.
-- I would use a concise decision log that records the question, options, evidence, owner, decision, date, and conditions for revisiting it.
-- I would schedule executive reviews around irreversible choices, material risk changes, and commitment gates instead of arbitrary reporting cycles.
-- I would keep user, customer, partner, or operator feedback connected to the backlog so that qualitative evidence changes delivery priorities.
+I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
 
-## How I would sequence delivery
-
-### How I would establish the baseline
-
-I would begin by documenting the current workflow, economics, controls, service levels, pain points, and ownership boundaries. I would separate verified facts from assumptions and make missing evidence visible before the team debates solutions.
-
-### How I would design the smallest credible intervention
-
-I would choose the smallest change that can test the central value and risk assumptions. I would define the target cohort, acceptance criteria, instrumentation, support model, and stopping conditions before I begin the pilot.
-
-### How I would pilot and learn
-
-I would release in a bounded environment, review both expected outcomes and unintended effects, and compare results with the baseline or a meaningful counterfactual. I would use the evidence to continue, revise, narrow, or stop rather than treating launch as proof of success.
-
-### How I would scale responsibly
-
-I would expand only after the operating owner, controls, documentation, support capacity, and measurement system are ready. I would preserve rollback paths and keep reviewing cohort-level outcomes so that scale does not hide deterioration.
-
-## How I would measure progress and value
-
-I would connect every measure to a decision. I would avoid a dashboard that reports activity without telling me whether to continue, intervene, or stop.
-
-| What I would measure | How I would use it |
-|---|---|
-| I would track active account use | I would use this to learn whether the intended audience reaches meaningful value, and I would segment it so aggregate growth cannot hide weak cohorts. |
-| I would track identity exceptions | I would use this to understand control effectiveness, severity, recurrence, and whether I need to stop, narrow, or redesign the rollout. |
-| I would track payment success | I would baseline this measure, assign an owner, review it by cohort or operating segment, and connect movement to a specific decision or corrective action. |
-| I would track credit quality | I would use this to judge whether the output is trustworthy enough for the next stage and to identify the failure modes that need targeted work. |
-| I would track complaints | I would baseline this measure, assign an owner, review it by cohort or operating segment, and connect movement to a specific decision or corrective action. |
-| I would track partner readiness | I would baseline this measure, assign an owner, review it by cohort or operating segment, and connect movement to a specific decision or corrective action. |
-| I would track control breaches | I would use this to understand control effectiveness, severity, recurrence, and whether I need to stop, narrow, or redesign the rollout. |
-| I would track remediation time | I would use this to locate operational friction and decide whether process, architecture, ownership, or capacity is the limiting factor. |
-
-I would review leading indicators during delivery and lagging outcomes after adoption. I would also pair quantitative measures with qualitative evidence so that I can explain why a number moved and what I should do next.
-
-## What I would watch closely
-
-- I would watch for weak or selectively interpreted evidence, and I would document assumptions, counter-evidence, and the confidence level behind each material decision.
-- I would watch for hidden dependencies and unclear decision rights, and I would keep a live dependency map with an owner and escalation date for every critical path item.
-- I would watch for adoption that looks healthy in aggregate but fails for important users, markets, partners, or operating teams, and I would review outcomes by cohort.
-- I would watch for a control that exists on paper but is not observable in operation, and I would require test evidence, exception handling, and accountable approval before release.
-
-I would give every material risk an owner, an early-warning indicator, a mitigation, and a trigger for escalation or rollback. I would revisit the risk register whenever the scope, evidence, or operating environment changes.
-
-## What I would consider a strong outcome
-
-I would consider the project successful when stakeholders can explain the decision, the evidence behind it, the owner of each critical dependency, and the conditions for scaling or stopping. I would also expect the operating team to inherit a usable system: clear controls, observable performance, documented exceptions, and a measurement cadence that continues after the initial launch.
-
-## Sources I rely on
-
-I use independent methodology and market evidence to shape the analysis. I use the career link above to provide chronology.
-
-| Source I use | How I use it |
-|---|---|
-| [World Bank - Global Findex 2014 launch (2015)](https://www.worldbank.org/en/news/feature/2015/04/20/global-findex-2014-unveils-worlds-most-comprehensive-set-of-data-on-financial-inclusion) | I use this source to ground market evidence for access and digital-payment opportunity. |
-| [BIS and World Bank - PAFI (2016)](https://www.bis.org/cpmi/publ/d144.htm) | I use this source to ground transaction-account, identity, interoperability, and access framework. |
-| [FATF - Risk-based approach to mobile and internet payments (2013)](https://www.fatf-gafi.org/content/dam/fatf/documents/recommendations/Guidance-RBA-NPPS.pdf) | I use this source to ground aML/CFT risk-based guidance. |
-| [MAS - Regulatory sandbox consultation (2016)](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20160606006/Media%20release%20-%20Public%20Consultation%20on%20Sandbox%20Guidelines_FINAL.pdf) | I use this source to ground contemporaneous bounded-launch model. |
+| Source | How it informed my work | Timing |
+|---|---|---|
+| [World Bank - Global Findex 2014 launch](https://www.worldbank.org/en/news/feature/2015/04/20/global-findex-2014-unveils-worlds-most-comprehensive-set-of-data-on-financial-inclusion) | I used it for east Asia and Pacific account ownership, remaining unbanked population, and digital-payment opportunity. | April 2015 |
+| [BIS and World Bank - Payment aspects of financial inclusion](https://www.bis.org/cpmi/publ/d144.htm) | I used it for identification infrastructure, interoperability, transaction accounts, and broad payment access. | April 2016 |
+| [FATF - Risk-based approach for prepaid cards, mobile payments and internet-based payment services](https://www.fatf-gafi.org/content/dam/fatf/documents/recommendations/Guidance-RBA-NPPS.pdf) | I used it for risk-based AML/CFT responsibilities for mobile and internet-based payment services. | June 2013 |
+| [Monetary Authority of Singapore - Regulatory sandbox consultation](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20160606006/Media%20release%20-%20Public%20Consultation%20on%20Sandbox%20Guidelines_FINAL.pdf) | I used it for controlled FinTech experimentation, safeguards, evaluation criteria, and bounded regulatory relief. | June 6, 2016 |
+| [World Bank - Global Findex 2014 launch (2015)](https://www.worldbank.org/en/news/feature/2015/04/20/global-findex-2014-unveils-worlds-most-comprehensive-set-of-data-on-financial-inclusion) | I used it to ground market evidence for access and digital-payment opportunity. | — |
+| [BIS and World Bank - PAFI (2016)](https://www.bis.org/cpmi/publ/d144.htm) | I used it to ground transaction-account, identity, interoperability, and access framework. | — |
+| [FATF - Risk-based approach to mobile and internet payments (2013)](https://www.fatf-gafi.org/content/dam/fatf/documents/recommendations/Guidance-RBA-NPPS.pdf) | I used it to ground aML/CFT risk-based guidance. | — |
