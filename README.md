@@ -46,6 +46,22 @@ In [sovereign-mandate activation and expansion](./projects/sovereign-mandate-par
 
 The initial $500 million allocation expanded to $1.2 billion within twelve months because investment behavior, controls, committee operation, reporting, and talent development had been observed. Reported first-year fees were $15 million, while invitations to pitch roughly $2 billion of regional mandates remained access—not awarded assets.
 
+## Revenue-program answer — partner marketing
+
+**Q: How do you build a partner marketing program that produces revenue?**
+
+**A:** I build it as a joint commercial system: shared audience and problem, a proposition neither company can deliver alone, explicit partner roles, a route to market, CRM ownership, incentive rules, and a measurement model that separates sourced pipeline from influenced value.
+
+In the partner-marketing program, the starting point was a $12 million MDF pool across thirty partners, broad seller handoffs, and activity reporting that could not show commercial yield. I treated both seller attention and MDF as scarce inventories. The joint audience was accounts where partner capability, customer intent, and seller action could combine; the proposition was measurable customer and commerce value, not generic co-branding.
+
+Activation was tiered. High-propensity accounts received immediate co-sell routing, contextual signals entered a fifteen-minute account aggregation, and lower-intent demand remained in protected nurture. Partners received plays, evidence, and funding matched to their role. Sellers received fewer opportunities with clearer reasons to act. MDF was released in tranches against accepted milestones and cohort performance rather than reimbursed for activity.
+
+Governance connected Partner Marketing, Sales, Product, Legal, Finance, and RevOps. A CRM traffic policy defined the qualifying event, account identity, routing owner, SLA, rejection reason, recycle path, partner credit, and opportunity outcome. This reduced handoff volume 60% while raising average opportunity value 30%, and cut CRM API calls 81%. Prioritized-account conversion moved from 6.5% to 24%, while low-score conversion fell below 0.5%.
+
+For attribution, I reported partner-sourced opportunities separately from partner-influenced revenue. A 500-account, 90-day holdout recorded 38% pipeline growth for treatment versus 4% for holdout. The program supported an estimated $50 million of incremental GMV, or 4.1× gross GMV per program dollar; I do not present that as net ROI without margin, operating cost, and persistence.
+
+The broader portfolio shows how the same model changes by ecosystem. Sovereign-cloud partners were measured first on regulatory approval and qualified workload progression, merchant-assurance partners on cost and exceptions per completed order, digital-bank partners on active use and credit quality, and a sovereign-investment partnership on earned mandate expansion. The common rule is that each partner contributes something specific, receives reciprocal value, owns failures at its handoff, and can see how the combined system produces customer and commercial outcomes.
+
 ## My ecosystem standard
 
 I own partner strategy, role and incentive design, joint proposition, operating handoffs, field and marketplace activation, measurement, governance, and the evidence for expansion. I do not count logos as ecosystem health.
