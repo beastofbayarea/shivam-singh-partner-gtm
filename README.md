@@ -30,7 +30,7 @@ I turned sovereignty from a procurement objection into a joint partner offer. Co
 
 #### [Merchant assurance ecosystem: multi-channel partner enablement](./projects/merchant-assurance-ecosystem-partner-enablement.md)
 
-I repositioned shipping software from a commoditized label tool into a merchant operating system and partner ecosystem. Free core software became the acquisition layer, while carrier connectivity, shipping volume, routing, warehouse accuracy, delivery compliance, and product-data intelligence created recurring value across commerce channels.
+I designed a merchant-assurance ecosystem strategy around the handoffs from listing through delivery. The project separates my Rakuten strategy work from public Veeqo market evidence, while showing how free core software, carrier connectivity, warehouse proof, routing, delivery protection, and governed product-data mapping could create recurring merchant value.
 
 ### Microsoft Corporation
 
@@ -38,7 +38,7 @@ I repositioned shipping software from a commoditized label tool into a merchant 
 
 #### [Partner marketing: MDF and pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md)
 
-I changed a $12M, 30-partner program from activity funding and lead volume to pipeline yield. Propensity-based sales allocation, protected nurture, common attribution, CRM traffic shaping, controlled holdouts, and tranche-based MDF connected partner investment to measurable revenue.
+I changed a $12M, 30-partner program from activity funding and lead volume to pipeline yield. Propensity-based sales allocation, protected nurture, common attribution, CRM traffic shaping, controlled holdouts, and tranche-based MDF produced an estimated $50M of incremental GMV, or 4.1× gross GMV per program dollar—not a net ROI claim.
 
 ### The D. E. Shaw Group
 
@@ -46,7 +46,7 @@ I changed a $12M, 30-partner program from activity funding and lead volume to pi
 
 #### [Sovereign mandate: partner activation and expansion](./projects/sovereign-mandate-partner-activation-expansion.md)
 
-I turned competing internal investment views into a partner-ready sovereign mandate proposition. A shared objective set, modular core-satellite solution, phased commitment, governance model, capability-transfer plan, and aligned fees created a credible institutional partnership that expanded through demonstrated value.
+I turned competing internal investment views into a partner-ready Omani sovereign mandate proposition. A shared objective set, modular core-satellite solution, phased commitment, governance model, capability-transfer plan, and aligned fees created a credible institutional partnership that expanded through demonstrated value; the project deliberately avoids applying the post-2020 Oman Investment Authority name to earlier work.
 
 ### McKinsey & Company
 
@@ -54,7 +54,7 @@ I turned competing internal investment views into a partner-ready sovereign mand
 
 #### [Southeast Asia digital bank: distribution-partner launch](./projects/southeast-asia-digital-bank-partner-launch.md)
 
-I led the partner operating model for a zero-to-one Southeast Asian digital bank launch. The public resume reports coordination across product, risk, compliance, and distribution partners around alternative-data credit scoring, eKYC and liveness verification, more than 400 model features, and a regulatory sandbox; the launch reached 100,000 active users in 90 days while improving approval from 10% to 40%, holding NPL at 2.4%, and keeping CAC below $10.
+I led the partner operating model for a zero-to-one Southeast Asian digital bank launch. The public resume reports coordination across product, risk, compliance, and distribution partners around alternative-data credit scoring, eKYC and liveness verification, and more than 400 model features; the launch reached 100,000 reported active users in 90 days while moving approval from below 10% to above 40%, reporting NPL at 2.4%, and keeping CAC below $10. The project treats the 2016 Singapore sandbox as methodology, not proof of program participation.
 
 ## Workplace assessments
 
