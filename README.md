@@ -1,5 +1,15 @@
 # Shivam Singh — Partner Marketing & Ecosystem GTM
 
+## Tell me about yourself
+
+**Q: Tell me about yourself / walk me through your background.**
+
+**A:** I am a partner and ecosystem GTM leader who designs joint offers around customer problems that no single organization can solve as well alone. I began at McKinsey with market-entry and digital-banking work, coordinating product, risk, identity, alternative-data, compliance, and distribution partners around one customer journey. That taught me that a partnership succeeds at the handoffs, not in the announcement.
+
+At D. E. Shaw, I worked on institutional activation and helped turn competing internal investment views into a sovereign mandate with clear portfolio jobs, governance, capability transfer, and tranche-based expansion. At Microsoft, I led enterprise partner GTM and redesigned a thirty-partner, $12 million MDF program around pipeline yield, seller attention, attribution, and commercial evidence rather than activity. During my MBA role at Rakuten, I developed a merchant-assurance ecosystem across product data, warehouses, carriers, commerce channels, and delivery protection. At AWS, I have focused on sovereign-cloud partner GTM, combining local identity, compliance, confidential infrastructure, marketplace incentives, and field activation for regulated customers.
+
+The through-line is reciprocal value and operating accountability. I define the joint audience and proposition, assign each partner a specific contribution and incentive, design the co-sell and delivery path, and measure sourced pipeline separately from influenced value. I am most effective in complex or regulated markets where trust, local capability, integration, and distribution must become one credible customer offer.
+
 A partnership becomes strategic when every participant has a precise job, a reason to perform it, and evidence that the combined system creates customer value neither party could deliver alone.
 
 This portfolio is about designing that value exchange—from regulated-market permission and merchant operations to seller attention, digital-bank distribution, and sovereign expansion.
