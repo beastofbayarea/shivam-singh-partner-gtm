@@ -43,6 +43,12 @@ Stories are grouped by their primary resume experience in reverse chronological 
 
 - [Partner marketing: MDF and pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md) - partner segmentation, enablement, and co-marketing efficiency
 
+### The D. E. Shaw Group
+
+**Vice President, Commercial Activation** | July 2016 - December 2019
+
+- [Sovereign mandate: partner activation and expansion](./projects/sovereign-mandate-partner-activation-expansion.md) - institutional solution positioning, stakeholder education, joint governance, and relationship expansion
+
 ### McKinsey & Company
 
 **Associate, Market Entry** | July 2014 - June 2016
