@@ -1,61 +1,57 @@
-# Shivam Singh - Partner Marketing and Ecosystem GTM
+# Shivam Singh — Partner Marketing & Ecosystem GTM
 
-## Profile
+A partnership becomes strategic when every participant has a precise job, a reason to perform it, and evidence that the combined system creates customer value neither party could deliver alone.
 
-Hi, I’m Shivam. I build partnerships around a customer problem that neither organization solves as well alone. From there, I work through the less glamorous—but decisive—questions: who does what, why each partner should care, what the joint promise is, how the field will deliver it, and how both sides will know the relationship is working.
+This portfolio is about designing that value exchange—from regulated-market permission and merchant operations to seller attention, digital-bank distribution, and sovereign expansion.
 
-You can reach me at [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/beastofbayarea).
+[Resume](./shivam-singh-partner-gtm.pdf) · [LinkedIn](https://www.linkedin.com/in/beastofbayarea) · [shiv-gtm-partner@umich.edu](mailto:shiv-gtm-partner@umich.edu)
 
-## My view of an ecosystem
+## Five partner jobs
 
-A long partner list is not an ecosystem strategy. I look for complementary capabilities, clear roles, aligned incentives, and a repeatable path from enablement to customer value.
+| Ecosystem moment | Partner job | Joint evidence |
+|---|---|---|
+| Enter a regulated market | Localize trust, controls, identity, delivery, and commercial access | Architecture approval, named-account progression, eligible committed capacity |
+| Complete a merchant promise | Preserve truth and proof across listing, inventory, picking, routing, delivery, and dispute | Cost and exceptions per successful order |
+| Allocate scarce GTM resources | Send seller time and market funds to the opportunities they can change | Cohort conversion, holdout lift, opportunity value, GMV per program dollar |
+| Launch a multi-party financial product | Make every partner accountable for the same customer state | Active use, approval, credit quality, CAC, and exception handling |
+| Expand an institutional relationship | Deliver investment behavior, governance, reporting, and capability transfer | Tranche decision, mandate compliance, local readiness, fee economics |
 
-That becomes especially important in AI, enterprise technology, and regulated markets. Trust may depend on local delivery, industry expertise, compliance, integration, and support—so the go-to-market plan has to make the entire system credible.
+## Permission before pipeline
 
-## Five ecosystem conversations
+In [APAC sovereign-cloud partner GTM](./projects/apac-sovereign-cloud-partner-gtm.md), I translated “sovereignty” into five concrete decisions and chose partners for embedded trust rather than distribution reach. Confidential computing, customer-controlled keys, local identity, compliance-as-code, a marketplace path, and named-account proof became one regulated landing zone.
 
-I’ve organized these projects by career experience, newest first. In each one, I explain the customer need, the partner roles, the incentives, the launch mechanics, and the measures I used to judge whether the ecosystem created real value. The external links inside each file support the market and methodology choices.
+A bespoke six-month environment estimate fell to roughly two hours for the base infrastructure workflow, the tested key path moved from about ten seconds to below one millisecond, CIO meetings were 78% higher than the comparison market, and lead quality rose 3.5×. The program created $122 million of qualified pipeline and made more than $20 million of committed capacity eligible for approved use—without confusing either figure with consumed revenue.
 
-### Amazon Web Services (AWS)
+## The completed promise as the product boundary
 
-**Principal, Partner Marketing and Ecosystem GTM** | July 2024 - Present
+[The merchant-assurance ecosystem](./projects/merchant-assurance-ecosystem-partner-enablement.md) rejected the shipping label as the category boundary. I designed the partner system around the completed customer promise: canonical product truth, inventory reservation, pick proof, service choice, carrier scan, delivery evidence, and marketplace protection.
 
-#### [APAC sovereign cloud: partner GTM](./projects/apac-sovereign-cloud-partner-gtm.md)
+Merchants, warehouses, carriers, commerce channels, and the platform each contributed a signal in exchange for a visible operational benefit. The retained program evidence included roughly $100,000 of estimated annual seller savings and a reported 20% decline in late deliveries, while external Veeqo examples remained clearly market analogues. The durable moat was not a generative model; it was the governed correction loop across partner taxonomies and handoffs.
 
-I turned sovereignty from a procurement objection into a joint partner offer. Confidential computing, customer-controlled keys, a local identity partner, compliance-as-code, marketplace incentives, and named-account proof created a repeatable regulated-market deployment and GTM pattern.
+## Seller attention and MDF as investable inventory
 
-### Rakuten Group, Inc.
+[Partner marketing and MDF pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md) treated both seller capacity and a $12 million market-development fund as scarce inventories. Propensity routing increased conversion in the prioritized cohort from 6.5% to 24%, reduced low-score conversion below 0.5%, cut handoff volume 60% while raising average opportunity value 30%, and reduced CRM API calls 81%.
 
-**Partner GTM - MBA Intern** | 2023
+A 500-account, 90-day holdout recorded 38% pipeline growth for treatment versus 4% for holdout. Tranche-based MDF allocation then supported an estimated $50 million of incremental GMV, or 4.1× gross GMV per program dollar—not a net ROI claim.
 
-#### [Merchant assurance ecosystem: multi-channel partner enablement](./projects/merchant-assurance-ecosystem-partner-enablement.md)
+## One customer state across every launch partner
 
-I designed a merchant-assurance ecosystem strategy around the handoffs from listing through delivery. The project separates my Rakuten strategy work from public Veeqo market evidence, while showing how free core software, carrier connectivity, warehouse proof, routing, delivery protection, and governed product-data mapping could create recurring merchant value.
+[The Southeast Asia digital-bank launch](./projects/southeast-asia-digital-bank-partner-launch.md) gave product, risk, eKYC/liveness, alternative-data, distribution, payments, servicing, and collections partners one shared customer-state contract. Economics were attached to completion and quality, not signups.
 
-### Microsoft Corporation
+The reported launch reached 100,000 active users in 90 days, moved approval from below 10% to above 40%, held CAC below $10, and recorded 2.4% early NPL. Expansion was earned through observed handoff and cohort evidence, with activity and seasoning definitions preserved as limitations.
 
-**Senior Manager, Enterprise Partner GTM** | January 2020 - August 2022
+## Expansion as the proof of partnership
 
-#### [Partner marketing: MDF and pipeline yield](./projects/partner-marketing-mdf-pipeline-yield.md)
+In [sovereign-mandate activation and expansion](./projects/sovereign-mandate-partner-activation-expansion.md), I stopped three internal teams from pitching incompatible answers to an Omani sovereign investor. Six objectives became portfolio jobs; an 80% capital-preservation core and 20% growth satellite received separate limits, liquidity, reporting, and economics; and a six-month analyst rotation made capability transfer contracted value.
 
-I changed a $12M, 30-partner program from activity funding and lead volume to pipeline yield. Propensity-based sales allocation, protected nurture, common attribution, CRM traffic shaping, controlled holdouts, and tranche-based MDF produced an estimated $50M of incremental GMV, or 4.1× gross GMV per program dollar—not a net ROI claim.
+The initial $500 million allocation expanded to $1.2 billion within twelve months because investment behavior, controls, committee operation, reporting, and talent development had been observed. Reported first-year fees were $15 million, while invitations to pitch roughly $2 billion of regional mandates remained access—not awarded assets.
 
-### The D. E. Shaw Group
+## My ecosystem standard
 
-**Vice President, Commercial Activation** | July 2016 - December 2019
+I own partner strategy, role and incentive design, joint proposition, operating handoffs, field and marketplace activation, measurement, governance, and the evidence for expansion. I do not count logos as ecosystem health.
 
-#### [Sovereign mandate: partner activation and expansion](./projects/sovereign-mandate-partner-activation-expansion.md)
+A partner system is working when each participant knows what it contributes, receives value proportional to that contribution, can see failure at the handoff it owns, and has an economic reason to improve the next customer outcome.
 
-I turned competing internal investment views into a partner-ready Omani sovereign mandate proposition. A shared objective set, modular core-satellite solution, phased commitment, governance model, capability-transfer plan, and aligned fees created a credible institutional partnership that expanded through demonstrated value; the project deliberately avoids applying the post-2020 Oman Investment Authority name to earlier work.
+## Working style
 
-### McKinsey & Company
-
-**Associate, Market Entry** | July 2014 - June 2016
-
-#### [Southeast Asia digital bank: distribution-partner launch](./projects/southeast-asia-digital-bank-partner-launch.md)
-
-I led the partner operating model for a zero-to-one Southeast Asian digital bank launch. The public resume reports coordination across product, risk, compliance, and distribution partners around alternative-data credit scoring, eKYC and liveness verification, and more than 400 model features; the launch reached 100,000 reported active users in 90 days while moving approval from below 10% to above 40%, reporting NPL at 2.4%, and keeping CAC below $10. The project treats the 2016 Singapore sandbox as methodology, not proof of program participation.
-
-## Workplace assessments
-
-If you’re interested in how I tend to work, I’ve included my [December 2025 Workplace Insights report](./assessments/workplace-insights-report-2025-12-26.pdf) and the more recent [January 2026 Workplace Insights report](./assessments/workplace-insights-report-2026-01-18.pdf).
+For a broader view of how I collaborate and make decisions, see the [December 2025 Workplace Insights report](./assessments/workplace-insights-report-2025-12-26.pdf) and [January 2026 Workplace Insights report](./assessments/workplace-insights-report-2026-01-18.pdf).
